@@ -5,7 +5,7 @@ locale: en_US
 description: Portafolio de aprendizaje de una profesora de ELE
 logo: site-logo-imma.png
 search: true
-url: https://immalopez.github.io/
+url: https://immalopez.github.io
 
 # Jekyll configuration
 
