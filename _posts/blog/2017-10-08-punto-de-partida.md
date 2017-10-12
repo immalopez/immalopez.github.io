@@ -3,7 +3,7 @@ layout: post
 title: Punto de partida
 modified:
 categories: blog
-excerpt:
+excerpt: ""
 tags: []
 image:
   feature:
@@ -11,8 +11,7 @@ image:
 # modified: 2016-06-01T14:19:19-04:00
 ---
 
-Empezar a hablar de uno mismo siempre es complicado. 
-A mí, por ejemplo, me han metido en un aprieto al proponerme escribir este blog. Me hallaba como pez en el agua en la intimidad de mi mente y ahora tengo que presentarme y hacer públicas mis reflexiones fingiendo que no voy a aburrir a nadie. Aun así, me hace ilusión tener un **registro interactivo de mi evolución como profesora en ciernes** y compartirlo con los demás. Últimamente me acompaña a todas partes esta sensación esquizofrénica de estar haciendo algo con mi vida a la vez que una voz interior me llama fracasada, y quizás merezca la pena mencionarla para hablar del punto vital del que parto actualmente.
+Empezar a hablar de uno mismo siempre es complicado. A mí, por ejemplo, me han metido en un aprieto al proponerme escribir este blog. Me hallaba como pez en el agua en la intimidad de mi mente y ahora tengo que presentarme y hacer públicas mis reflexiones fingiendo que no voy a aburrir a nadie. Aun así, me hace ilusión tener un **registro interactivo de mi evolución como profesora en ciernes** y compartirlo con los demás. Últimamente me acompaña a todas partes esta sensación esquizofrénica de estar haciendo algo con mi vida a la vez que una voz interior me llama fracasada, y quizás merezca la pena mencionarla para hablar del punto vital del que parto actualmente.
 
 # De dónde vengo: formación, situación, creencias y expectativas actuales
 
