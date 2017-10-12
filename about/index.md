@@ -17,4 +17,4 @@ Mi nombre es Imma López Solà. Nacida y criada en Barcelona (España), he estad
 
 En 2016 me gradué con honores en Teoría de la Literatura y Literatura Comparada por la Universidad de Barcelona, y más tarde hice el curso de Formación de Profesores de E/LE de International House.
 
-Mi objetivo actual es viajar e instalarme en distintos países llevando conmigo mi preciado idioma natal para compartirlo con los demás. Para más información, podéis leer el [Punto de partida](https://immalopez.github.io/blog/punto-de-partida/) de este blog.
+Mi objetivo actual es viajar e instalarme en distintos países llevando conmigo mi preciado idioma natal para compartirlo con los demás. Si queréis más información, podéis leer el [Punto de partida](https://immalopez.github.io/blog/punto-de-partida/) de este blog.
