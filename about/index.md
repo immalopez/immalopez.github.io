@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sobre Imma López
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+title: Presentación
+excerpt: "Portafolio de aprendizaje de una profesora de ELE"
 modified: 2014-08-08T19:44:38.564948-04:00
 #image:
 #  feature: so-simple-sample-image-4.jpg
@@ -9,4 +9,4 @@ modified: 2014-08-08T19:44:38.564948-04:00
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Surrounded by books since birth, I developed a strong interest in both language and literature from a very young age, a passion that I have been nurturing consistently through an exhaustive study. In addition to learning English, Russian, Korean and Chinese, I graduated with honors from the University of Barcelona in Literary Theory and Comparative Literature, and I have worked for the National Theatre of Catalonia as a literary translator. My goal right now is to become a Spanish teacher and travel the world.
+Este blog es un proyecto para el [Máster de Formación de Profesores de Español como Lengua Extranjera coordinado por la Universidad de Barcelona y la Universidad Pompeu Fabra](https://www.ub.edu/portal/web/educacion/masteres-universitarios/-/ensenyament/detallEnsenyament/1060507). En él, se pretende llevar a cabo un seguimiento de la evolución de la autora en el decurso de sus estudios.
