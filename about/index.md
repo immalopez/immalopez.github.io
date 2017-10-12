@@ -15,6 +15,6 @@ Este portafolio es un proyecto para el [Máster de Formación de Profesores de E
 
 Mi nombre es Imma López Solà. Nacida y criada en Barcelona (España), he estado toda la vida expuesta a la pluralidad característica de la ciudad condal, y ya desde muy pequeña me interesé por la lengua y la literatura de otras culturas. Hasta la fecha he estudiado inglés, ruso, chino y coreano.
 
-En 2016 me gradué con honores en Teoría de la Literatura y Literatura Comparada por la Universidad de Barcelona, y más tarde hice el curso de Formación de Profesores de E/LE de International House.
+En 2016 me gradué con honores en Teoría de la Literatura y Literatura Comparada por la Universidad de Barcelona, y más tarde hice el curso de Formación de Profesores de E/LE de International House. Mi objetivo actual es viajar e instalarme en distintos países llevando conmigo mi preciado idioma natal para compartirlo con los demás.
 
-Mi objetivo actual es viajar e instalarme en distintos países llevando conmigo mi preciado idioma natal para compartirlo con los demás. Si queréis más información, podéis leer el [Punto de partida](https://immalopez.github.io/blog/punto-de-partida/) de este blog.
+Si queréis más información, podéis leer el [Punto de partida](https://immalopez.github.io/blog/punto-de-partida/) de este blog.
