@@ -45,7 +45,7 @@ Mis puntos débiles son las **dinámicas de grupo** y las **presentaciones de le
 
 El último punto que puedo destacar del curso es la elaboración de un **portafolio de aprendizaje** , similar al que estamos escribiendo ahora para el máster (aunque no era en soporte electrónico ni tan libre como este). Tal vez resulte de interés comparar muestras de aquel portafolio con las que vaya escribiendo para este y así analizar mi progreso. Iré experimentando con ello.
 
-**Experiencia como estudiante de idiomas: inglés, ruso, coreano y chino**
+**Experiencia como estudiante de idiomas: inglés, ruso, chino y coreano**
 
 ![Concurso de oratoria](/images/coreano.jpg)
 
