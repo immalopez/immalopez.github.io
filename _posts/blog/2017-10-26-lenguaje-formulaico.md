@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adquisición de segundas lenguas: lenguaje formulaico
+title: Adquisición de segundas lenguas. Lenguaje formulaico
 modified:
 categories: blog
 excerpt: ""
