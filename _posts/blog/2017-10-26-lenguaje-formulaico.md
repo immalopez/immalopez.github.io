@@ -24,7 +24,7 @@ Sin embargo -y como vemos en el cómic de [Pedro Vera](https://es.wikipedia.org/
 
 # Algunos _chunks_ en español
 
-Además de los que ya hemos aducido al comienzo de esta entrada (así como de los que nos hemos servido, sin darnos cuenta, en el decurso de estas líneas -«hacer hincapié», «en el decurso de estas [páginas]»...-), aquí tenemos una lista con ejemplos variopintos de secuencias formulaicas en español, que incluyen combinaciones con significado léxico, combinaciones gramaticales, marcadores del discurso, esquemas léxico-sintácticos recurrentes y rutinas conversacionales:
+Además de los que ya hemos aducido al comienzo de esta entrada (así como de los que nos hemos servido, sin darnos cuenta, en el decurso de sus líneas -«hacer hincapié», «en el decurso de [estas páginas]»...-), aquí tenemos una lista con ejemplos variopintos de secuencias formulaicas en español, que incluyen combinaciones con significado léxico, combinaciones gramaticales, marcadores del discurso, esquemas léxico-sintácticos recurrentes y rutinas conversacionales:
 * negar categóricamente
 * poder adquisitivo
 * poner de manifiesto
