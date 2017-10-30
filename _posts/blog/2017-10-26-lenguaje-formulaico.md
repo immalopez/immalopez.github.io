@@ -11,7 +11,7 @@ image:
 # modified: 2016-06-01T14:19:19-04:00
 ---
 
-En el proceso de adquisición de segundas lenguas (L2), es muy importante potenciar nuestra fluidez a la hora de comunicarnos con otros hablantes. Una buena forma de hacerlo es incorporando el lenguaje formulaico de la L2 a nuestro discurso.
+En el proceso de adquisición de segundas lenguas (L2), es muy importante potenciar nuestra fluidez a la hora de comunicarnos con otros hablantes. Una buena forma de hacerlo es incorporando el lenguaje formulaico de la L2 a nuestro discurso. Veámoslo.
 
 De acuerdo con la definición que de ellas nos da [Alison Wray](https://en.wikipedia.org/wiki/Alison_Wray), las **secuencias formulaicas** (en adelante, **_chunks_**) son «estructuras prefabricadas» que el hablante tiene almacenadas en su memoria como un todo y que utiliza, por decirlo de algún modo, irreflexivamente. Lo que se pretende dar a entender con esto es que su uso no responde a la aplicación de unas reglas determinadas sobre unidades léxicas discretas, sino que dichas estructuras (_chunks_) representan una suerte de comodín que el emisor puede insertar en su discurso de forma natural gracias a la repetición social de aquellas (un claro ejemplo lo encontramos en muletillas como «¿sabes lo que te quiero decir?»).
 
