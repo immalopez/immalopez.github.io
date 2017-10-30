@@ -47,3 +47,9 @@ Además de los que ya hemos aducido al comienzo de esta entrada (así como de lo
 * llevar la contraria
 * por un lado / por otro lado
 * estallar la guerra
+* fresco como una rosa
+* ...
+
+Como veis, la lista es extensísima; no en vano los enfoques conductistas creyeron durante tanto tiempo que las lenguas se podían aprender únicamente por imitación. Aun así, hemos constatado e insistimos en que cada _chunk_ se asocia a contextos de uso precisos que es capital tener presentes para no incurrir en fallos comunicativos.
+
+¿Qué hay de vosotros? ¿Cuáles son vuestras secuencias formulaicas favoritas? ¡Podéis decírmelo en los comentarios! ¡Nos vemos en la próxima entrada!
