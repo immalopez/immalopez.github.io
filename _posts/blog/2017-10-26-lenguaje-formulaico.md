@@ -17,12 +17,12 @@ De acuerdo con la definición que de ellas nos brinda [Alison Wray](https://en.w
 
 En consecuencia, podemos afirmar que se trata de recursos muy socorridos para el hablante de L2, ya que, por un lado, dado su **carácter convencional**, contribuyen a acercar el discurso del aprendiente al paradigma nativo y, por el otro, le permiten ganar tiempo mientras elabora las siguientes oraciones de su producción, de modo que esta acaba resultando mucho más sofisticada.
 
-Sin embargo, precisamente porque surgen de repeticiones ritualizadas, muchos _chunks_ están preñados de connotaciones (de género, de registro -«qué fuerte, tía»-, de clase social, de personalidad, etc.) con las que debemos lograr que el alumno esté familiarizado. Por lo tanto, en sus clases, el profesor de E/LE tendrá que seleccionar un _input_ adecuado para dicho menester y hacer hincapié en este tipo de fórmulas, presentándolas y practicándolas **siempre en su contexto de uso**, y reparando en el carácter machacón y la falta de estilo en que deriva el empleo excesivo de algunas de sus vertientes.
+Sin embargo, precisamente porque surgen de repeticiones ritualizadas, muchos _chunks_ están preñados de connotaciones (de género, de registro -«qué fuerte, tía»-, de clase social -«o sea»-, de personalidad, etc.) con las que debemos lograr que el alumno esté familiarizado. Por lo tanto, en sus clases, el profesor de E/LE tendrá que seleccionar un _input_ adecuado para dicho menester y hacer hincapié en este tipo de fórmulas, presentándolas y practicándolas **siempre en su contexto de uso**, y reparando en el carácter machacón y la falta de estilo en que deriva el empleo excesivo de algunas de sus vertientes.
 
 
 # Algunos _chunks_ en español
 
-Además de los que ya hemos aducido al comienzo de esta entrada, aquí tenemos una lista con algunos otros ejemplos de secuencias formulaicas en español:
+Además de los que ya hemos aducido al comienzo de esta entrada, aquí tenemos una lista con otros ejemplos de secuencias formulaicas en español, que incluyen :
 * negar categóricamente
 * poder adquisitivo
 * poner de manifiesto
@@ -30,4 +30,18 @@ Además de los que ya hemos aducido al comienzo de esta entrada, aquí tenemos u
 * una verdad como un templo
 * alguno que otro
 * desear ardientemente
-* 
+* lo interesante es que
+* hacer la pelota
+* a largo plazo
+* destino turístico
+* encantado de conocerle
+* un tema candente
+* todo el mundo
+* tener que
+* deber de
+* tomar la iniciativa
+* de vez en cuando
+* érase una vez
+* llevar la contraria
+* por un lado / por otro lado
+* estallar la guerra
