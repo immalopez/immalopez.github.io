@@ -11,7 +11,7 @@ image:
 # modified: 2016-06-01T14:19:19-04:00
 ---
 
-En el proceso de adquisición de segundas lenguas (L2), es muy importante potenciar nuestra fluidez a la hora de comunicarnos con otros hablantes. Una buena forma de hacerlo es incorporando el lenguaje formulaico de la L2 a nuestro discurso. Veamos, pues, en qué consiste esta estrategia.
+En el proceso de adquisición de segundas lenguas (L2), es muy importante potenciar nuestra fluidez a la hora de comunicarnos con otros hablantes. Una buena forma de hacerlo es incorporando el lenguaje formulaico de la L2 a nuestro discurso. Ahora bien, ¿en qué consiste esta estrategia?
 
 De acuerdo con la definición que de ellas nos brinda [Alison Wray](https://en.wikipedia.org/wiki/Alison_Wray), las **secuencias formulaicas** (en adelante, **_chunks_**) son «estructuras prefabricadas» que el hablante tiene almacenadas en su memoria como un todo y que utiliza, por decirlo de algún modo, irreflexivamente. Lo que se pretende dar a entender con esto es que su uso no responde a la aplicación consciente de unas reglas determinadas sobre unidades léxicas discretas, sino que dichas estructuras (_chunks_) representan una suerte de combinación-comodín que el emisor ha asimilado y puede insertar en su discurso de forma natural gracias a la repetición social de aquellas (dos claros ejemplos los encontramos en muletillas como «¿sabes lo que te quiero decir?» y colocaciones del tipo «albergo la esperanza»).
 
@@ -22,7 +22,7 @@ Sin embargo, precisamente porque surgen de repeticiones ritualizadas, muchos _ch
 
 # Algunos _chunks_ en español
 
-Además de los que ya hemos aducido al comienzo de esta entrada, aquí tenemos una lista con otros ejemplos de secuencias formulaicas en español, que incluyen :
+Además de los que ya hemos aducido al comienzo de esta entrada, aquí tenemos una lista con ejemplos variopintos de secuencias formulaicas en español, que incluyen combinaciones con significado léxico, combinaciones gramaticales, marcadores del discurso, esquemas léxico-sintácticos recurrentes y rutinas conversacionales:
 * negar categóricamente
 * poder adquisitivo
 * poner de manifiesto
