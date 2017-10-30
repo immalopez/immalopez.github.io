@@ -11,8 +11,12 @@ image:
 # modified: 2016-06-01T14:19:19-04:00
 ---
 
-aaa
+En el proceso de adquisición de segundas lenguas, es muy importante hacer hincapié en el lenguaje formulaico.
 
 # Algunos _chunks_ en español
 
-Aquí tenemos una lista con algunos ejemplos de _chunk_ en español.
+Aquí tenemos una lista con algunos ejemplos de _chunk_ en español:
+
+
+
+«Education is not the filling of a pail, but the lighting of a fire»,
