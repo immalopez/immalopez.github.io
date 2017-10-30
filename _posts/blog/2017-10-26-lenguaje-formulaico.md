@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adquisición de segundas lenguas. Lenguaje formulaico
+title: Lenguaje formulaico
 modified:
 categories: blog
 excerpt: ""
@@ -13,6 +13,6 @@ image:
 
 aaa
 
-# _Chunks_ en español
+# Algunos _chunks_ en español
 
-Como esta entrada s
+Aquí tenemos una lista con algunos ejemplos de _chunk_ en español.
