@@ -19,7 +19,7 @@ En consecuencia, podemos afirmar que se trata de recursos muy socorridos para el
 
 ![Las muletillas como ejemplo de lenguaje formulaico](/images/muletillas.jpg)
 
-Sin embargo -y como vemos en el cómic de [Pedro Vera](https://es.wikipedia.org/wiki/Pedro_Vera)-, precisamente porque surgen de repeticiones ritualizadas, muchos _chunks_ están preñados de connotaciones (de género, de registro -«qué fuerte, tía»-, de clase social -«o sea»-, de personalidad, etc.) con las que debemos lograr que el alumno esté familiarizado. Por lo tanto, en sus clases, el profesor de E/LE tendrá que seleccionar un _input_ adecuado para dicho menester y hacer hincapié en este tipo de fórmulas, presentándolas y practicándolas **siempre en su contexto de uso**, y reparando en el carácter machacón y la falta de estilo en que deriva el empleo excesivo de algunas de sus vertientes.
+Sin embargo -y como vemos en el cómic de [Pedro Vera](https://es.wikipedia.org/wiki/Pedro_Vera)-, precisamente porque surgen de repeticiones ritualizadas, muchos _chunks_ están preñados de connotaciones (de género, de registro -«qué fuerte, tía»-, de clase social, de personalidad, etc.) con las que debemos lograr que el alumno esté familiarizado. Por lo tanto, en sus clases, el profesor de E/LE tendrá que seleccionar un _input_ adecuado para dicho menester y hacer hincapié en este tipo de fórmulas, presentándolas y practicándolas **siempre en su contexto de uso**, y reparando en el carácter machacón y la falta de estilo en que deriva el empleo excesivo de algunas de sus vertientes.
 
 
 # Algunos _chunks_ en español
@@ -43,7 +43,6 @@ Además de los que ya hemos aducido al comienzo de esta entrada (así como de lo
 * deber de
 * tomar la iniciativa
 * de vez en cuando
-* érase una vez
 * llevar la contraria
 * por un lado / por otro lado
 * estallar la guerra
