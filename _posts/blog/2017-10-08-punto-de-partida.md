@@ -33,9 +33,9 @@ En conclusión, me alegra enormemente haber elegido este grado porque incluye mu
 
 ![Enseñando en "International House"](/images/international-house.jpg)
 
-Con todo, al graduarme, me vi enfrentada al abismo de no saber qué hacer con mi vida, así que decidí tomarme un año libre para pensar en mis necesidades en lugar de actuar precipitadamente. Mis recuerdos de este año son algo agridulces, pues me sentía insegura todo el rato, pero, al mismo tiempo, sabía que estaba haciendo lo correcto al dar un paso atrás y tomar perspectiva.
+Con todo, al graduarme, me vi enfrentada al abismo de no saber qué hacer con mi vida, así que decidí tomarme un año libre para pensar en mis necesidades en lugar de actuar precipitadamente. Mis recuerdos de dicho año son algo agridulces, pues me sentía insegura en todo momento, pero, al mismo tiempo, sabía que estaba haciendo lo correcto al dar un paso atrás y adquirir perspectiva.
 
-Estuve considerando cursar filología clásica o eslava y dedicarme a la traducción, intenté escribir algo que valiera la pena, aprendí a hacer punto y crochet, me dediqué a la cocina elaborada y a la repostería, empecé a estudiar chino, me puse a leer todos los clásicos que decía haber leído a lo largo de la carrera, me fui de viaje a Tailandia y Singapur… La verdad es que me lo pasé bastante bien. Y me di cuenta de que eso era lo que quería hacer: **experimentar con cosas distintas cada día** , **cambiar de país** , **conocer gente nueva** y **practicar idiomas**.
+Estuve considerando cursar filología clásica o eslava y dedicarme a la traducción, intenté escribir algo que valiera la pena, aprendí a hacer punto y _crochet_, me dediqué a la cocina elaborada y a la repostería, empecé a estudiar chino, me puse a leer todos los clásicos que decía haber leído a lo largo de la carrera, me fui de viaje a Tailandia y Singapur… La verdad es que me lo pasé bastante bien. Y me di cuenta de que eso era lo que quería hacer: **experimentar con cosas distintas cada día** , **cambiar de país** , **conocer gente nueva** y **practicar idiomas**.
 
 Por aquel entonces, la empresa de mi novio, que es ruso-búlgaro, le ofreció clases de español gratuitas, ya que en su oficina se habla inglés y son casi todos extranjeros. Aceptó y empezó a mostrarme lo que hacían en clase, y repasábamos juntos. Me parecía todo muy divertido y empecé a tener ganas de enseñar yo también. Le preguntamos a su profesor qué era necesario hacer para dedicarse a eso y nos habló del máster de la Universidad de Barcelona y del curso de formación de profesores de International House.
 
@@ -45,7 +45,7 @@ Mis puntos débiles son las **dinámicas de grupo** y las **presentaciones de le
 
 El último punto que puedo destacar del curso es la elaboración de un **portafolio de aprendizaje** , similar al que estamos escribiendo ahora para el máster (aunque no era en soporte electrónico ni tan libre como este). Tal vez resulte de interés comparar muestras de aquel portafolio con las que vaya escribiendo para este y así analizar mi progreso. Iré experimentando con ello.
 
-**Experiencia como estudiante de idiomas: inglés, ruso, coreano y chino**
+**Experiencia como estudiante de idiomas: inglés, ruso, chino y coreano**
 
 ![Concurso de oratoria](/images/coreano.jpg)
 
@@ -55,7 +55,7 @@ Mi percepción con el inglés es que lo he aprendido de forma autodidacta, jugan
 
 En primer lugar, concibo al **profesor** como una suerte de **guía** que **involucra al alumno** y lo **incentiva creativamente**. Más que comunicarle determinados saberes, lo que busca es brindarle las herramientas necesarias para adquirir dichos conocimientos **por sí mismo**, como haría en un **contexto real** si la situación lo requiriese. «_Education is not the filling of a pail, but the lighting of a fire_», dice William Butler Yeats. Así, un buen profesor planificará sus clases dando al alumno el protagonismo y el espacio de **reflexión** necesarios. Asimismo, generará y gestionará un **ambiente de aprendizaje propicio** y tratará de **motivar** al alumno ajustando, en la medida de lo posible, el **input** y las actividades a sus **intereses**.
 
-En segundo lugar, el **alumno** tiene que tener una buena disposición de ánimo y **dedicación** para asimilar aquello que le está siendo transmitido. Aprender un idioma es un viaje largo que requiere mucha paciencia. Por esta razón hay que buscar formas de **paliar la frustración** , de alimentar la **sensación de progreso** ininterrumpidamente, de fomentar el esfuerzo mediante recompensas y de ahuyentar el tedio a través de la **variación**. Alumno y profesor deben trabajar mano a mano para subir los peldaños de una escalera que nunca acaba, ni siquiera para los hablantes nativos, puesto que una lengua está en constante evolución.
+En segundo lugar, el **alumno** tiene que tener una buena disposición de ánimo y **dedicación** para retener aquello que le está siendo transmitido. Aprender un idioma es un viaje largo que requiere mucha paciencia. Por esta razón hay que buscar formas de **paliar la frustración** , de alimentar la **sensación de progreso** ininterrumpidamente, de fomentar el esfuerzo mediante recompensas y de ahuyentar el tedio a través de la **variación**. Alumno y profesor deben trabajar mano a mano para subir los peldaños de una escalera que nunca acaba, ni siquiera para los hablantes nativos, puesto que una lengua está en constante evolución.
 
 # Adónde voy: objetivos profesionales
 
@@ -63,6 +63,6 @@ Ahora da comienzo una nueva etapa vital, para cuya ilustración todavía no disp
 
 Mi idea al terminar el máster es mudarme a otro país donde poner en práctica todo lo asimilado y empezar a ganarme la vida con esto. De poder elegir, me gustaría vivir un tiempo en Rusia o alguna otra zona oriental. Más adelante seguramente me decidiría a hacer un **doctorado** e intentaría encontrar trabajo en una **universidad extranjera** o **Instituto Cervantes**. ¡Puestos a soñar…! Otro proyecto que tengo entre manos con mi pareja es la creación de algún tipo de **aplicación de móvil** que tenga relación con alguno de los campos del **aprendizaje de lenguas extranjeras**. Existen muchas ya hechas, pero creo que siempre puede aportarse algo nuevo a los aprendientes. Ojalá que los temas tratados a lo largo de las clases me ayuden a idear contenido a este respecto. La **creación de materiales** es algo que me llama mucho la atención.
 
-En conclusión, junto a la posibilidad de hacer algo positivo para los demás, el hecho de tener que renovarme y adaptarme a nuevos contextos cada día es uno de los aspectos que más me seducen de ser profesora de español. Así pues, estoy muy contenta con la inauguración del máster. Confío en sacarle el máximo partido y en emprender el viaje que me lleve hacia una carrera feliz. ¡Lo iremos viendo a medida que vaya publicando en este blog!
+En conclusión, junto a la posibilidad de hacer algo positivo para los demás, el hecho de tener que renovarme y adaptarme a nuevos contextos cada día es uno de los aspectos que más me seducen de ser profesora de español. Así pues, estoy muy contenta con la inauguración del máster. Confío en sacarle el máximo partido y en emprender el viaje que me lleve hacia una carrera feliz. ¡Lo iremos comprobando a medida que vaya publicando en este blog!
 
-¡Muchas gracias por leerme hasta aquí! Hasta la próxima entrada.
+¡Muchas gracias por leerme hasta aquí! Nos vemos en la próxima entrada.
