@@ -15,7 +15,7 @@ En el proceso de adquisición de segundas lenguas (L2), es muy importante potenc
 
 De acuerdo con la definición que de ellas nos brinda [Alison Wray](https://en.wikipedia.org/wiki/Alison_Wray), las **secuencias formulaicas** (en adelante, **_chunks_**) son «estructuras prefabricadas» que el hablante tiene almacenadas en su memoria como un todo y que utiliza, por decirlo de algún modo, irreflexivamente. Lo que se pretende dar a entender con esto es que su uso no responde a la aplicación consciente de unas reglas determinadas sobre unidades léxicas discretas, sino que dichas estructuras (_chunks_) representan una suerte de combinación-comodín que el emisor ha asimilado y puede insertar en su discurso de forma natural gracias a la repetición social de aquellas (dos claros ejemplos los encontramos en muletillas como «¿sabes lo que te quiero decir?» y colocaciones del tipo «albergo la esperanza»).
 
-En consecuencia, podemos afirmar que se trata de recursos muy socorridos para el hablante de L2, ya que, por un lado, dado su **carácter convencional**, contribuyen a acercar el discurso del aprendiente al paradigma nativo y, por el otro, le permiten ganar tiempo mientras elabora las siguientes oraciones de su producción, de modo que esta acaba resultando mucho más sofisticada.
+En consecuencia, podemos afirmar que se trata de recursos muy socorridos para el hablante de L2, ya que, por un lado, dado su **carácter convencional**, contribuyen a acercar el discurso del aprendiente al paradigma nativo y, por el otro, le permiten ganar tiempo mientras elabora las siguientes oraciones de su producción, de modo que esta acaba resultando mucho más sofisticada. Otra ventaja de la adquisición de estas secuencias radica en su enorme **productividad**, puesto que, en algún momento de su proceso de aprendizaje, el estudiante se servirá de ellas para llevar a cabo **análisis sintácticos posteriores** y deducir otras estructuras posibles a partir de su modelo. En consecuencia, podemos concluir que el papel que desempeñan es **temporal**.
 
 ![Las muletillas como ejemplo de lenguaje formulaico](/images/muletillas.jpg)
 
@@ -25,27 +25,18 @@ Sin embargo -y como vemos en el cómic de [Pedro Vera](https://es.wikipedia.org/
 # Algunos _chunks_ en español
 
 Además de los que ya hemos aducido al comienzo de esta entrada (así como de los que nos hemos servido, sin darnos cuenta, en el decurso de sus líneas -«hacer hincapié», «en el decurso de [estas páginas]»...-), aquí tenemos una lista con ejemplos variopintos de secuencias formulaicas en español, que incluyen combinaciones con significado léxico, combinaciones gramaticales, marcadores del discurso, esquemas léxico-sintácticos recurrentes y rutinas conversacionales:
-* negar categóricamente
-* poder adquisitivo
-* poner de manifiesto
+* negar categóricamente, desear ardientemente
+* poder adquisitivo, destino turístico, tema candente
 * a las mil maravillas
 * una verdad como un templo
-* alguno que otro
-* desear ardientemente
+* alguno que otro, todo el mundo
 * lo interesante es que
-* hacer la pelota
+* hacer la pelota, llevar la contraria, poner de manifiesto
 * a largo plazo
-* destino turístico
 * encantado de conocerle
-* un tema candente
-* todo el mundo
-* tener que
-* deber de
-* tomar la iniciativa
-* de vez en cuando
-* llevar la contraria
-* por un lado / por otro lado
-* estallar la guerra
+* tener que, deber de
+* tomar la iniciativa, estallar la guerra
+* de vez en cuando, por un lado / por otro lado
 * fresco como una rosa
 * ...
 
