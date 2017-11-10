@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adaptaciones cinematográficas (RAR I)
+title: Adaptaciones cinematográficas (Cine y literatura en la enseñanza de ELE - RAR I)
 modified:
 categories: blog
 excerpt: ""
