@@ -10,7 +10,9 @@ image:
 # date: 2014-08-08T15:39:55-04:00
 # modified: 2016-06-01T14:19:19-04:00
 ---
-¡Bienvenidos a la primera muestra del RAR ([Registro de Aprendizaje Reflexivo](https://www.practicareflexiva.pro/registro-aprendizaje-reflexivo/)) que voy a llevar a cabo para la asignatura de «Cine y literatura en la enseñanza de ELE»! Como su nombre indica, el objetivo de las entradas que veáis catalogadas con estas tres siglas será el de ir meditando acerca de aquellos aspectos que más nos hayan llamado la atención en cada clase y de cómo podrían ser incluidos en el aula de lengua extranjera. Para ello, vamos a seguir un procedimiento de **reflexión en columna**: en la derecha mencionaremos los conceptos seleccionados y en la izquierda los comentaremos brevemente. La idea es obtener un resumen visual que nos remita a los conocimientos que en su día juzgamos significativos.
+¡Bienvenidos a la primera muestra del RAR ([Registro de Aprendizaje Reflexivo](https://www.practicareflexiva.pro/registro-aprendizaje-reflexivo/)) que voy a llevar a cabo para la asignatura de «Cine y literatura en la enseñanza de ELE»! Como su nombre indica, el objetivo de las entradas que veáis catalogadas con estas tres siglas será el de ir meditando acerca de aquellos aspectos que más nos hayan llamado la atención en cada clase y de cómo podrían ser incluidos en el aula de lengua extranjera. 
+
+Para ello, vamos a seguir un procedimiento de **reflexión en columna**: en la derecha mencionaremos los conceptos seleccionados y en la izquierda los comentaremos brevemente. La idea es obtener un resumen visual que nos remita a los conocimientos que en su día juzgamos significativos.
 
 # La clase de hoy
 
