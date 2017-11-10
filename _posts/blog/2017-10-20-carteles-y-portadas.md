@@ -27,8 +27,14 @@ Hoy hemos estado hablando de las características que distinguen la **portada de
   </thead>
   <tbody>
     <tr>
-      <td>a b c d y si lo que es muy largo es el concepto, ¿qué pasa? Alehop alehop alehop bon dia senyores i senyors amics de tothom</td>
-      <td>creo que esto es una reflexión vacía aimed only at testing this table sample. Quiero ver cuánto puedo escribir hasta que salte de línea y si queda bien. Me llamo Pepito Grillo y tengo 10 años. **a ver si funcionan las negritas** pues parece que no.</td>
+      <td>EL CARTEL DE UNA PELÍCULA</td>
+      <td>
+      * se sirve de un mayor número de elementos visuales para seducir a los consumidores
+      * es más dinámico
+      * muestra un mayor grado de concreción
+      * destaca el papel de los actores
+      * puede incluir citas o críticas positivas sobre la película en cuestión
+      </td>
     </tr>
     <tr>
       <td>e f G h</td>
