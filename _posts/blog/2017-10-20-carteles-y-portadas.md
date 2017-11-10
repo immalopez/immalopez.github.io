@@ -11,4 +11,21 @@ image:
 # modified: 2016-06-01T14:19:19-04:00
 ---
 
-Tanto en el cine como en la literatura...
+<table>
+  <thead>
+    <tr>
+      <th>Concepto</th>
+      <th>Reflexión</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>a b c d</td>
+      <td>creo que esto es una reflexión vacía aimed only at testing this table sample</td>
+    </tr>
+    <tr>
+      <td>e f G h</td>
+      <td>hello I love you</td>
+    </tr>
+  </tbody>
+</table
