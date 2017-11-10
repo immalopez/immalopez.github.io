@@ -43,7 +43,7 @@ Hoy hemos estado hablando de las características que distinguen la **portada de
       <td>LA PORTADA DE UN LIBRO</td>
       <td>
         <ul>
-          <li>dado que la lectura de un libro requiere más trabajo de introspección, la portada reta con elementos simbólicos y metafóricos al público intelectual</li>
+          <li>dado que la lectura requiere más trabajo de introspección, la portada reta con elementos simbólicos y metafóricos al público intelectual</li>
           <li>el paratexto suele limitarse al título y al autor de la obra</li>
           <li>juega con el horizonte de expectativas de los lectores, de acuerdo con la frase hecha «no juzgues un libro por su portada»</li>
         </ul>
