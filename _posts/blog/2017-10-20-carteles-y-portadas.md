@@ -29,11 +29,11 @@ Hoy hemos estado hablando de las características que distinguen la **portada de
     <tr>
       <td>EL CARTEL DE UNA PELÍCULA</td>
       <td>
-      * se sirve de un mayor número de elementos visuales para seducir a los consumidores
-      * es más dinámico
-      * muestra un mayor grado de concreción
-      * destaca el papel de los actores
-      * puede incluir citas o críticas positivas sobre la película en cuestión
+* se sirve de un mayor número de elementos visuales para seducir a los consumidores
+* es más dinámico
+* muestra un mayor grado de concreción
+* destaca el papel de los actores
+* puede incluir citas o críticas positivas sobre la película en cuestión
       </td>
     </tr>
     <tr>
