@@ -31,4 +31,4 @@ image:
   </tbody>
 </table>
 
-# ¿Qué actividades relacionadas con todo esto son susceptibles de ser llevardas al aula de ELE?
+# ¿Qué actividades relacionadas con todo esto son susceptibles de ser llevadas al aula de ELE?
