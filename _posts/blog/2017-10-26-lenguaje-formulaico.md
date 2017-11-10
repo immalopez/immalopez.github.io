@@ -3,7 +3,7 @@ layout: post
 title: Lenguaje formulaico
 modified:
 categories: blog
-excerpt: ""
+excerpt: "Adquisición de segundas lenguas"
 tags: []
 image:
   feature:
