@@ -28,4 +28,4 @@ image:
       <td>hello I love you</td>
     </tr>
   </tbody>
-</table
+</table>
