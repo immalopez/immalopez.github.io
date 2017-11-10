@@ -21,7 +21,7 @@ image:
   <tbody>
     <tr>
       <td>a b c d</td>
-      <td>creo que esto es una reflexión vacía aimed only at testing this table sample</td>
+      <td>creo que esto es una reflexión vacía aimed only at testing this table sample. Quiero ver cuánto puedo escribir hasta que salte de línea y si queda bien. Me llamo Pepito Grillo y tengo 10 años. **a ver si funcionan las negritas** pues parece que no.</td>
     </tr>
     <tr>
       <td>e f G h</td>
