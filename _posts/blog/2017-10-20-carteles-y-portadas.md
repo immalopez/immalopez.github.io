@@ -14,7 +14,7 @@ image:
 
 # La clase de hoy
 
-Hoy hemos estado hablando de las caractrísticas que distinguen la **portada de un libro** y el **cartel de una película**, tomando como ejemplo diversos casos de **adaptaciones cinematográficas**. De nuestras observaciones, destacamos lo siguiente:
+Hoy hemos estado hablando de las características que distinguen la **portada de un libro** y el **cartel de una película**, tomando como ejemplo diversos casos de **adaptaciones cinematográficas**. De nuestras observaciones, destacamos lo siguiente:
 
 <table>
   <thead>
