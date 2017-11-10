@@ -32,6 +32,7 @@ Hoy hemos estado hablando de las características que distinguen la **portada de
         <ul>
           <li>se sirve de un mayor número de elementos visuales para seducir a los consumidores</li>
           <li>es más dinámico</li>
+          <li>sigue unas pautas de diseño muy codificadas: resulta sencillo determinar el género de una película a partir de su cartel</li>
           <li>muestra un mayor grado de concreción</li>
           <li>destaca el papel de los actores</li>
           <li>puede incluir citas o críticas positivas sobre la película en cuestión</li>
@@ -39,8 +40,14 @@ Hoy hemos estado hablando de las características que distinguen la **portada de
       </td>
     </tr>
     <tr>
-      <td>e f G h</td>
-      <td>hello I love you</td>
+      <td>LA PORTADA DE UN LIBRO</td>
+      <td>
+        <ul>
+          <li>dado que la lectura de un libro requiere más trabajo de introspección, la portada reta con elementos simbólicos y metafóricos al público intelectual</li>
+          <li>el paratexto suele limitarse al título y al autor de la obra</li>
+          <li>juega con el horizonte de expectativas de los lectores, de acuerdo con la frase hecha «no juzgues un libro por su portada»</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
