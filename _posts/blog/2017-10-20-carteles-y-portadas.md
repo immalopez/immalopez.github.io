@@ -3,7 +3,7 @@ layout: post
 title: Adaptaciones cinematográficas
 modified:
 categories: blog
-excerpt: "Cine y literatura en la enseñanza de ELE: Carteles de películas y portadas de libros (RAR I)"
+excerpt: "Cine y literatura en la enseñanza de ELE (RAR I)"
 tags: []
 image:
   feature:
