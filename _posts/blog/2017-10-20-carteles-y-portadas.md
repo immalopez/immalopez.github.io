@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Adaptaciones cinematográficas (Cine y literatura - RAR I)
+title: Adaptaciones cinematográficas
 modified:
 categories: blog
-excerpt: ""
+excerpt: "Cine y literatura en la enseñanza de ELE: Carteles de películas y portadas de libros (RAR I)"
 tags: []
 image:
   feature:
