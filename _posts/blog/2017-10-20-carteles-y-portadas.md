@@ -20,7 +20,7 @@ image:
   </thead>
   <tbody>
     <tr>
-      <td>a b c d</td>
+      <td>a b c d y si lo que es muy largo es el concepto, ¿qué pasa? Alehop alehop alehop bon dia senyores i senyors amics de tothom</td>
       <td>creo que esto es una reflexión vacía aimed only at testing this table sample. Quiero ver cuánto puedo escribir hasta que salte de línea y si queda bien. Me llamo Pepito Grillo y tengo 10 años. **a ver si funcionan las negritas** pues parece que no.</td>
     </tr>
     <tr>
