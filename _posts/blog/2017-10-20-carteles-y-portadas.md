@@ -10,7 +10,7 @@ image:
 # date: 2014-08-08T15:39:55-04:00
 # modified: 2016-06-01T14:19:19-04:00
 ---
-¡Bienvenidos a la primera muestra del RAR ([Registro de Aprendizaje Reflexivo](https://www.practicareflexiva.pro/registro-aprendizaje-reflexivo/) que voy a llevar a cabo para la asignatura de «Cine y literatura en la enseñanza de ELE»!
+¡Bienvenidos a la primera muestra del RAR ([Registro de Aprendizaje Reflexivo](https://www.practicareflexiva.pro/registro-aprendizaje-reflexivo/)) que voy a llevar a cabo para la asignatura de «Cine y literatura en la enseñanza de ELE»!
 
 <table>
   <thead>
