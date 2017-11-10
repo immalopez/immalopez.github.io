@@ -35,6 +35,7 @@ Hoy hemos estado hablando de las características que distinguen la **portada de
           <li>muestra un mayor grado de concreción</li>
           <li>destaca el papel de los actores</li>
           <li>puede incluir citas o críticas positivas sobre la película en cuestión</li>
+        </ul>
       </td>
     </tr>
     <tr>
