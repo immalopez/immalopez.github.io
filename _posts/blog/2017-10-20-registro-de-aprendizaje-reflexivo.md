@@ -46,7 +46,7 @@ Generalmente, la inmediatez y la accesibilidad del hecho cinematográfico reperc
 
 Sin embargo, también es posible poner en diálogo un cartel y una portada para que uno ayude a la otra: en el caso de las adaptaciones cinematográficas nos parece muy sencillo, pero también podemos, como hemos visto en clase, hacer que sean los mismos alumnos los que creen el cartel de la película de una (o varias) novela(s) que pensemos proponerles leer a partir de su sinopsis.
 
-Lo cierto es que, con un poco de imaginación, podemos estimular la lectura fuera del aula. Nos parece muy fructífera la lectura de <a href="http://marcoele.com/como-llevar-la-literatura-al-aula-de-ele-de-la-teoria-a-la-practica/"><u>este artículo de María Dolores Albaladejo</u></a>, que ofrece numerosas claves para llevar la literatura al aula de ELE. Muchas de ellas incluyen <i>role plays</i> y <strong>trabajos cooperativos</strong>, lo que las convierte en fuentes de práctica de destrezas, como la interacción oral y escrita, muy atractivas y productivas.
+Lo cierto es que, con un poco de imaginación, podemos estimular la lectura fuera del aula. A riesgo de ser redundantes, nos parece muy fructífera la lectura de <a href="http://marcoele.com/como-llevar-la-literatura-al-aula-de-ele-de-la-teoria-a-la-practica/"><u>este artículo de María Dolores Albaladejo</u></a>, que ofrece numerosas claves para llevar la literatura al aula de ELE. Muchas de ellas incluyen <i>role plays</i> y <strong>trabajos cooperativos</strong>, lo que las convierte en fuentes de práctica de destrezas, como la interacción oral y escrita, muy atractivas y productivas.
       </td>
     </tr>
   </tbody>
