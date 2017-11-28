@@ -44,9 +44,3 @@ Para ello, seguiremos un procedimiento de **reflexión en columna**: en la izqui
     </tr>
   </tbody>
 </table>
-
-Así pues, ¿cómo podemos trasladar todo esto al aula de ELE?
-
-# Actividades posibles
-
-Algunas de las actividades propuestas incluyen...
