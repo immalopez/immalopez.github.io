@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Registro de Aprendizaje Reflexivo
+title: Registro de Aprendizaje Reflexivo (RAR)
 modified:
 categories: blog
 excerpt: "Cine y literatura en la enseñanza de ELE"
