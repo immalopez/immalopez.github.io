@@ -10,7 +10,7 @@ image:
 # date: 2014-08-08T15:39:55-04:00
 # modified: 2016-06-01T14:19:19-04:00
 ---
-¡Bienvenidos al RAR ([Registro de Aprendizaje Reflexivo](https://www.practicareflexiva.pro/registro-aprendizaje-reflexivo/)) que hemos llevado a cabo para la asignatura de «Cine y literatura en la enseñanza de ELE»! Como su nombre indica, el objetivo de esta entrada será el de meditar acerca de aquellos aspectos que más nos hayan llamado la atención en cada clase y de cómo podrían ser incluidos en el aula de lengua extranjera. 
+¡Bienvenidos al RAR ([Registro de Aprendizaje Reflexivo](https://www.practicareflexiva.pro/registro-aprendizaje-reflexivo/)) que hemos llevado a cabo para la asignatura de «Cine y literatura en la enseñanza de ELE»! Como su nombre indica, el objetivo de esta entrada será el de meditar acerca de aquellos aspectos que más nos han llamado la atención en cada clase y de cómo podrían ser incluidos en el aula de lengua extranjera. 
 
 Para ello, seguiremos un procedimiento de **reflexión en columna**: en la izquierda mencionaremos y contextualizaremos los conceptos seleccionados y en la derecha hablaremos sobre lo que nos han sugerido y por qué. La idea es obtener un resumen visual que nos remita a los conocimientos que en su día juzgamos significativos.
 
