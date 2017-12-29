@@ -33,6 +33,7 @@ Creo que ambas fórmulas tienen un componente motivador y contribuyen a establec
         </td>
         </tr>
         <br />
+    <br />
         <tr>
       <td><strong>20 de octubre</strong>. En la clase de hoy hemos estado hablando de las características que distinguen la portada de un libro del cartel de una película, tomando como ejemplo diversos casos de <strong>adaptaciones cinematográficas</strong>.
         De nuestras observaciones, destacamos lo siguiente:
