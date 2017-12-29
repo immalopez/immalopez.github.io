@@ -53,7 +53,7 @@ Para ello, seguiremos un procedimiento de **reflexión en columna**: en la izqui
         <br />
         Al terminar, se ha comprobado que este tipo de material es altamente productivo y explotable, pues a partir de él pueden practicarse cuestiones gramaticales, como las estructuras de hipótesis («me parece que…», «me suena que…», etc.); destrezas lingüísticas (por ejemplo, creando diálogos a partir de las citas, representándolos y comparándolos luego con las escenas de las películas de las que provienen); aspectos socioculturales (contrastando la traducción con el original, analizando posibles expresiones idiomáticas…); y, sobre todo, juegos con la entonación. Para este último caso, podríamos recuperar los alter egos que vimos el primer día de clase y leer cada frase como nuestro personaje lo haría –resultaría curioso si además lo hiciéramos doblando directamente la escena, proyectada–.
         <br />
-        En la misma tónica, Irene ha dicho que es muy útil y motivador incorporar las <strong>técnicas del teatro</strong> en el aula, ya que se dice que <strong>sabemos hablar un idioma cuando podemos expresar emociones con él</strong>.
+        En la misma tónica, Irene ha mencionado que es muy útil y motivador incorporar las <strong>técnicas del teatro</strong> en el aula, ya que se dice que <strong>sabemos hablar un idioma cuando podemos expresar emociones con él</strong>.
       </td>
       </tr>
         <tr>
