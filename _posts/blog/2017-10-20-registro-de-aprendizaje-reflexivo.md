@@ -110,7 +110,7 @@ Para ello, seguiremos un procedimiento de **reflexión en columna**: en la izqui
       <td><strong>20 de octubre (II)</strong>. Al final de la sesión, Irene nos ha presentado un recurso audiovisual que me ha parecido divertidísimo para explotar en el aula: el <i><strong>recut trailer</strong></i>. Consiste en editar las escenas de una película para crear un tráiler de la misma como si perteneciese a otro género. Así, de una película de terror podemos obtener el tráiler de una comedia familiar; de una comedia familiar, un drama, etc.
         <br />
         He aquí el ejemplo que hemos visto proyectado en clase: <i>Scary Mary</i>, la versión fantasmagórica de <i>Mary Poppins. ¡Hide your children!</i>
-        <iframe width="480" height="360" src="http://www.youtube.com/embed/2T5_0AGdFic" frameborder="0"> </iframe>
+        <iframe width="480" height="360" src="https://www.youtube.com/embed/2T5_0AGdFic" frameborder="0"> </iframe>
         <br />
         La idea es que con este material podemos jugar a romper las expectativas de nuestros alumnos, hacer que adivinen el género original de la película, o incluso <strong>pedirles que ellos mismos creen su propio <i>recut trailer</i></strong>.
         </td>
