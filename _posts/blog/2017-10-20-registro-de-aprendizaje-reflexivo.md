@@ -111,6 +111,7 @@ Para ello, seguiremos un procedimiento de **reflexión en columna**: en la izqui
         <br />
         He aquí el ejemplo que hemos visto proyectado en clase: <i>Scary Mary</i>, la versión fantasmagórica de <i>Mary Poppins. ¡Hide your children!</i>
         <br />
+        
         <iframe width="480" height="360" src="https://www.youtube.com/embed/2T5_0AGdFic" frameborder="0"> </iframe>
         <br />
         La idea es que con este material podemos jugar a romper las expectativas de nuestros alumnos, hacer que adivinen el género original de la película, o incluso <strong>pedirles que ellos mismos creen su propio <i>recut trailer</i></strong>.
