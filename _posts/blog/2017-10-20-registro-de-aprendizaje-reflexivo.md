@@ -112,7 +112,7 @@ Para ello, seguiremos un procedimiento de **reflexión en columna**: en la izqui
         He aquí el ejemplo que hemos visto proyectado en clase: <i>Scary Mary</i>, la versión fantasmagórica de <i>Mary Poppins. ¡Hide your children!</i><br /><br />
         <iframe width="480" height="360" src="https://www.youtube.com/embed/2T5_0AGdFic" frameborder="0"> </iframe>
         <br />
-        La idea es que con este material podemos jugar a romper las expectativas de nuestros alumnos, hacer que adivinen el género original de la película, o incluso <strong>pedirles que ellos mismos creen su propio <i>recut trailer</i></strong>. ¡Las risas están aseguradas!
+        La idea es que con este material podemos jugar a romper las expectativas de nuestros alumnos, hacer que adivinen el género originario de la película, o incluso <strong>pedirles que ellos mismos creen su propio <i>recut trailer</i></strong>. ¡Las risas están aseguradas!
         </td>
       <td>La verdad es que la mención a este recurso ha sido anecdótica, pero a mí me ha entusiasmado la posibilidad de implementarlo en el aula, pues me parece que fomenta la creatividad y el aprendizaje autónomo (si pedimos a los aprendientes que creen su propio <i>recut trailer</i>) de un modo muy lúdico y original. De hecho, tengo en mente proponérselo a mis alumnos de inglés, hacer que lo realicen en parejas y después visualizar todos los tráileres en clase con una simulación de festival de cine, entrega de premios incluida. Me falta decidir en qué plataforma llevar a cabo el proyecto, dado que quiero que sea intuitiva de usar para que nadie tenga problemas técnicos mayores.
         <br />
