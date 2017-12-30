@@ -77,11 +77,13 @@ Para ello, seguiremos un procedimiento de **reflexión en columna**: en la izqui
           <li>muestra un mayor grado de concreción</li>
           <li>destaca el papel de los actores</li>
           <li>puede incluir citas o críticas positivas sobre la película en cuestión</li>
+           ![La pianista, de Michael Haneke](/images/20081980.jpg)
         </ul>
           <ul>
            <strong>LA PORTADA DE UN LIBRO</strong>
           <li>plantea una incógnita: dado que la lectura requiere más trabajo de introspección, la portada reta con elementos simbólicos y metafóricos al público</li><li>el paratexto suele limitarse al título, al autor y a la editorial de la obra</li>
           <li>juega con el horizonte de expectativas de los lectores, de acuerdo con la frase hecha «no juzgues un libro por su portada»</li>
+            ![La pianista, de Elfriede Jelinek](/images/la-pianista-de-elfriede-jelinek.jpg)
         </ul>
       </td>
       <td>En clase -y, posteriormente, en un hilo de foro-, hemos estado ideando diversas actividades que llevar al aula de ELE a partir de los dos recursos gráficos mencionados. Aunque dichas actividades respondían a objetivos variados (lingüísticos y comunicativos, según el caso), considerándolas globalmente, parece lógico inferir que, debido a su carácter eminentemente publicitario, las más de las veces nos serviremos de carteles de películas y de portadas de libros para tantear e invitar a nuestros alumnos a trabajar con las obras que estos anuncios tratan de promocionar.
