@@ -113,7 +113,7 @@ Para ello, seguiremos un procedimiento de **reflexión en columna**: en la izqui
         <html>
  <body>
   <iframe src="https://www.youtube.com/watch?v=2T5_0AGdFic"
-   width="560" height="315" frameborder="0" allowfullscreen></iframe>
+   frameborder="0" allowfullscreen></iframe>
  </body>
 </html>
         <br />
