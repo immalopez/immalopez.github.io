@@ -84,7 +84,8 @@ Para ello, seguiremos un procedimiento de **reflexión en columna**: en la izqui
            <strong>LA PORTADA DE UN LIBRO</strong>
           <li>plantea una incógnita: dado que la lectura requiere más trabajo de introspección, la portada reta con elementos simbólicos y metafóricos al público;</li><li>el paratexto suele limitarse al título, al autor y a la editorial de la obra;</li>
           <li>juega con el horizonte de expectativas de los lectores, de acuerdo con la frase hecha «no juzgues un libro por su portada».</li>
-            <img src="/images/la-pianista-de-elfriede-jelinek.jpg" /><br />
+            <img src="/images/la-pianista-de-elfriede-jelinek.jpg" />
+            <br />
         Una vez delimitados los parámetros que rigen la composición de estos elementos publicitarios, hemos estado ideando diversas actividades que llevar al aula de ELE a partir de ellos, primero como lluvia de ideas (en clase abierta) y después formal e individualmente (en un hilo de foro).
         </ul>
       </td>
