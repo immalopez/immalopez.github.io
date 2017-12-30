@@ -116,4 +116,4 @@ Para ello, seguiremos un procedimiento de **reflexión en columna**: en la izqui
       </tr>
   </tbody>
 </table>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SjX1lRtJdAg" />
+<iframe src="https://www.youtube.com/embed/SjX1lRtJdAg" />
