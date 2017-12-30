@@ -112,7 +112,7 @@ Para ello, seguiremos un procedimiento de **reflexión en columna**: en la izqui
         He aquí el ejemplo que hemos visto proyectado en clase: <i>Scary Mary</i>, la versión fantasmagórica de <i>Mary Poppins. ¡Hide your children!</i>
         <html>
  <body>
-  <iframe src="https://www.youtube.com/watch?v=2T5_0AGdFic" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/watch?v=2T5_0AGdFic" />
  </body>
 </html>
         <br />
