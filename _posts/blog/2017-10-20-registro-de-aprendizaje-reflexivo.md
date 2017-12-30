@@ -85,7 +85,7 @@ Para ello, seguiremos un procedimiento de **reflexión en columna**: en la izqui
           <li>plantea una incógnita: dado que la lectura requiere más trabajo de introspección, la portada reta con elementos simbólicos y metafóricos al público;</li><li>el paratexto suele limitarse al título, al autor y a la editorial de la obra;</li>
           <li>juega con el horizonte de expectativas de los lectores, de acuerdo con la frase hecha «no juzgues un libro por su portada».</li>
             <img src="/images/la-pianista-de-elfriede-jelinek.jpg" />
-        Una vez delimitados los parámetros que rigen la composición de estos elementos publicitarios, hemos estado ideando diversas actividades que llevar al aula de ELE, primero como lluvia de ideas (en clase abierta) y después formal e individualmente (en un hilo de foro).
+        Una vez delimitados los parámetros que rigen la composición de estos elementos publicitarios, hemos estado ideando diversas actividades que llevar al aula de ELE a partir de ellos, primero como lluvia de ideas (en clase abierta) y después formal e individualmente (en un hilo de foro).
         </ul>
       </td>
       <td>En clase -y, posteriormente, en un hilo de foro-, hemos estado ideando diversas actividades que llevar al aula de ELE a partir de los dos recursos gráficos mencionados. Aunque dichas actividades respondían a objetivos variados (lingüísticos y comunicativos, según el caso), considerándolas globalmente, parece lógico inferir que, debido a su carácter eminentemente publicitario, las más de las veces nos serviremos de carteles de películas y de portadas de libros para tantear e invitar a nuestros alumnos a trabajar con las obras que estos anuncios tratan de promocionar.
