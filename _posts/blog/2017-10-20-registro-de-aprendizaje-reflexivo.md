@@ -77,12 +77,14 @@ Para ello, seguiremos un procedimiento de **reflexión en columna**: en la izqui
           <li>muestra un mayor grado de concreción</li>
           <li>destaca el papel de los actores</li>
           <li>puede incluir citas o críticas positivas sobre la película en cuestión</li>
+           <br/>
            <img src="/images/20081980.jpg" />
         </ul>
           <ul>
            <strong>LA PORTADA DE UN LIBRO</strong>
           <li>plantea una incógnita: dado que la lectura requiere más trabajo de introspección, la portada reta con elementos simbólicos y metafóricos al público</li><li>el paratexto suele limitarse al título, al autor y a la editorial de la obra</li>
           <li>juega con el horizonte de expectativas de los lectores, de acuerdo con la frase hecha «no juzgues un libro por su portada»</li>
+            <br />
             <img src="/images/la-pianista-de-elfriede-jelinek.jpg" />
         </ul>
       </td>
