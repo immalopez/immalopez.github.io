@@ -142,4 +142,4 @@ Para ello, seguiremos un procedimiento de **reflexión en columna**: en la izqui
 
 Y hasta aquí llegan mis reflexiones. ¡Ha sido una verdadera lástima que esta asignatura haya durado tan poco! Con todo, nos ha legado un montón de ideas y herramientas para sacarle el máximo rendimiento en el aula a un material que, por lo menos a mí, me es muy querido. No puedo esperar a dar clase para poner en práctica estas actividades y ver cómo funcionan.
 
-Por supuesto, si tenéis alguna duda, comentario o sugerencia, no dudéis en hacérmelos llegar. Yo me despido ya. ¡Muchas gracias por leerme y nos vemos en la próxima entrada!
+Por supuesto, si tenéis alguna pregunta, comentario o sugerencia, no dudéis en hacérmelos llegar. Yo me despido ya. ¡Muchas gracias por leerme y nos vemos en la próxima entrada!
