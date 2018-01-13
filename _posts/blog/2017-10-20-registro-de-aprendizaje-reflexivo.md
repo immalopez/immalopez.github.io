@@ -120,7 +120,7 @@ Para ello, seguiremos un procedimiento de **reflexión en columna**: en la izqui
         <br />
         Es más, el trabajo en este sentido no tiene por qué limitarse a una sola película o a la creación de un tráiler: pueden fusionarse diversos largometrajes u otro material audiovisual (en la lengua meta, eso sí) para crear una historia nueva, para cambiar el final de un clásico, etc. Pienso en programas como <i>APM?</i>, que han hecho del montaje su mayor virtud.
         <br />
-        Además, incorporar el humor de nuestra cultura en el aula de ELE (ya no hablo de mis estudiantes), aunque requiera de mucho trabajo, también permite abordar todos frentes de la competencia comunicativa de los educandos, ya que su comprensión precisa habilidades lingüísticas, sociolingüísticas, socioculturales, estratégicas y discursivas; y, lo que es más importante, hacerse con él les permitirá socializar e integrarse mejor en la comunidad, porque serán capaces de establecer relaciones de complicidad más profundas y relajadas con otros hablantes de la lengua meta (tanto en clase como en su vida personal).
+        Además, incorporar el humor de nuestra cultura en el aula de ELE (ya no hablo de mis estudiantes), aunque requiera de mucho trabajo, también permite abordar todos los frentes de la competencia comunicativa de los educandos, ya que su comprensión precisa habilidades lingüísticas, sociolingüísticas, socioculturales, estratégicas y discursivas; y, lo que es más importante, hacerse con él les permitirá socializar e integrarse mejor en la comunidad, porque serán capaces de establecer relaciones de complicidad más profundas y relajadas con otros hablantes de la lengua meta (tanto en clase como en su vida personal).
         </td>
       </tr>
     <tr>
