@@ -15,7 +15,7 @@ La evaluación
 
 ![Evaluación](/images/slider1.png)
 
-«La evaluación auténtica en la educación afectiva de lenguas extranjeras» de Viljo Kohonen (2000[1999]) 
+«La evaluación auténtica en la educación afectiva de lenguas extranjeras» de Viljo Kohonen (2000). 
 
 <table width="100%">
   <tbody>
