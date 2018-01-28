@@ -11,7 +11,7 @@ image:
 # modified: 2016-06-01T14:19:19-04:00
 ---
 
-En el [Punto de Partida](https://immalopez.github.io/blog/punto-de-partida/) de este portafolio, aduje la siguiente cita de William Butler Yeats: «_Education is not the filling of a pail, but the lighting of a fire_». En aquel momento
+En el [Punto de partida](https://immalopez.github.io/blog/punto-de-partida/) de este portafolio, aduje la siguiente cita de William Butler Yeats: «_Education is not the filling of a pail, but the lighting of a fire_». En aquel momento
 
 ![Evaluación](/images/slider1.png)
 
