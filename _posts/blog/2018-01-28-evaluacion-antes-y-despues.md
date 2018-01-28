@@ -11,7 +11,8 @@ image:
 # modified: 2016-06-01T14:19:19-04:00
 ---
 
-En el [Punto de partida](https://immalopez.github.io/blog/punto-de-partida/) de este portafolio, al hablar de mi concepción del profesor ideal, aduje la siguiente cita de William Butler Yeats: «_Education is not the filling of a pail, but the lighting of a fire_». En aquel momento, tenía una vaga idea de lo que creía que debía ser y lo que quería que fuese la docencia, y me había planteado la necesidad de **involucrar al alumno en su proceso de aprendizaje**. Sin embargo, no pensaba en el concepto de **_evaluación_** como tal. Consideraba importante hacer un seguimiento del progreso de mis alumnos, crear los exámenes a partir de la materia dada y no al revés, ejercer de guía y no de juez, y un largo etcétera de supuestos utópicos que en la práctica nunca me había parado a meditar lo suficiente.
+En el [Punto de partida](https://immalopez.github.io/blog/punto-de-partida/) de este portafolio, al hablar de mi concepción del profesor ideal, aduje la siguiente cita de William Butler Yeats: «_Education is not the filling of a pail, but the lighting of a fire_». En aquel momento, tenía una vaga idea de lo que creía que debía ser y lo que quería que fuese la docencia, y me había planteado la necesidad de **involucrar al alumno en su proceso de aprendizaje**. Sin embargo, no pensaba en el concepto de **_evaluación_** como tal. Consideraba importante hacer un seguimiento del progreso de mis alumnos, crear los exámenes a partir de la materia dada y no al revés, ejercer de guía y no de juez, y un largo etcétera de supuestos utópicos que en la práctica nunca me había parado a meditar lo suficiente. Hoy quiero revisar con vosotros la naturaleza de esta actividad tan crucial para completar el ciclo de nuestra labor docente y, no obstante, olvidada demasiado a menudo por los teóricos del enfoque comunicativo.
+
 
 
 ![Evaluación](/images/slider1.png)
