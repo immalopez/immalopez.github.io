@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La evaluación: antes y después
+title: La evaluación, antes y después
 modified:
 categories: blog
 excerpt: "Evaluación en el aprendizaje de ELE"
