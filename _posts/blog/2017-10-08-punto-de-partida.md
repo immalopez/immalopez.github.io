@@ -19,7 +19,7 @@ Como esta entrada será un parto difícil y yo soy de mente dispersa, para no pe
 
 **Graduada en Teoría de la Literatura y Literatura Comparada por la Universidad de Barcelona (2016)**
 
-![Graduación](/images/graduacion.png)
+![Graduación](/images/graduacion.jpg)
 
 A lo largo de los cuatro años que estuve cursando este grado, aprendí varias cuestiones esenciales acerca del lenguaje, tanto desde la perspectiva filológica (con asignaturas como Gramática Normativa del Español, Introducción a la Lingüística, Latín I, Lengua Inglesa I, etc.) como desde la de los estudios literarios (Métodos de la Teoría Literaria Contemporánea: del Formalismo Ruso al Estructuralismo, Corrientes Posestructuralistas, Historia de las Ideas Estéticas…). Asimismo, también experimenté con las traducciones gracias a las prácticas universitarias que efectué en el Teatro Nacional de Cataluña, donde se me encomendó la misión de traducir al catalán _stoning mary_ de debbie tucker green (sic), una obra de teatro escrita en _slang_.
 
