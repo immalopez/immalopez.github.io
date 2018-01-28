@@ -17,7 +17,7 @@ En consecuencia, a la hora de la verdad, en el momento de intentar elucidar **qu
 
 Hoy quiero revisar con vosotros la naturaleza de esta actividad tan crucial para completar el ciclo de cualquier labor docente y, no obstante, olvidada demasiado a menudo por los adscritos al enfoque comunicativo.
 
-![Evaluación](/images/slider1.png)
+![Evaluación2](/images/1*Z2j07N34E6BdM-SZkjaGmg.jpeg)
 
 Si nos fijamos en el origen de la palabra evaluación, en seguida aflorará el concepto de **_valor_**: evaluar es dar valor a algo o a alguien. Dicho valor vendrá determinado por la **percepción subjetiva** de quien valora en relación a unos **criterios de evaluación**. En teoría, es seguro afirmar que cuanto más precisados estén estos criterios (es decir, cuanto más sofisticada sea la rúbrica de evaluación), menor será el espacio otorgado a la subjetividad. Con todo, sortear la distancia entre la realidad objetiva y la interpretación que de ella hacemos, como veremos, no es tarea fácil.
 
@@ -86,7 +86,7 @@ Hasta ahora, ese era el único tipo de evaluación que había experimentado y so
 
 No obstante, este método precisa **tiempo** y **apoyo institucional**. Si el común de los mortales está sometido a las exigencias mercantilistas de una sociedad capitalista que precariza la educación subyugándola al concepto de **utilidad**, ni profesores, ni alumnos, ni instituciones podrán hacerse cargo de implementar la evaluación auténtica de forma efectiva. Faltan recursos y concienciación para asumir un compromiso que, en las condiciones actuales, no siempre puede verse con simpatía: como estudiante, se tiene la obligación de asistir a clase a diario –lo que reduce drásticamente las posibilidades de trabajar al mismo tiempo que se estudia-, y, como profesor, de hacer un seguimiento exhaustivo de cada educando, sin importar el número de personas que haya matriculadas en su(s) asignatura(s); ambos deben realizar un arduo trabajo de (auto)reflexión o bien de corrección personalizada; les resultará capital organizar, planificar y consensuar muy bien los objetivos y criterios de evaluación desde el principio, etc.
 
-![Evaluación2](/images/1*Z2j07N34E6BdM-SZkjaGmg.jpeg)
+![Evaluación](/images/slider1.png)
 
 Esto no quiere decir, empero, que no puedan incorporarse mejoras al modelo evaluativo actual. Este **portafolio**, por ejemplo, es un instrumento de (auto)evaluación mediante el cual llevo a cabo ejercicios de introspección que me permiten distribuir, de forma crítica, los conceptos tratados a lo largo del máster en mi espacio mental, creando conexiones más profundas y personalizadas que de otro modo no podrían suceder. Asimismo, el hecho de escribir mis pensamientos actuales me da la posibilidad de regresar a ellos más adelante y contar con **muestras tangibles de mi proceso de aprendizaje**.
 
