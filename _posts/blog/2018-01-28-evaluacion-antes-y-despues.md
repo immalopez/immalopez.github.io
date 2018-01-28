@@ -13,4 +13,4 @@ image:
 
 La evaluación 
 
-![Evaluación](/images/slider1.jpg)
+![Evaluación](/images/slider1.png)
