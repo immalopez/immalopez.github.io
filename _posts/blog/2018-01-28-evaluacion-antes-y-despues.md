@@ -19,7 +19,7 @@ Hoy quiero revisar con vosotros la naturaleza de esta actividad tan crucial para
 
 ![Evaluación](/images/slider1.png)
 
-Si nos fijamos en el origen de la palabra evaluación, en seguida aflorará el concepto de **valor**: evaluar es dar valor a algo o a alguien. Este valor lo determinará la percepción subjetiva de quien valora en relación a unos **criterios de evaluación**. Como más precisados estén estos criterios (es decir, como más sofisticada sea la rúbrica de evaluación), menor será el espacio otorgado a la subjetividad. Con todo, sortear la distancia entre la realidad objetiva y la interpretación que de ella hacemos, como veremos, no es tarea fácil.
+Si nos fijamos en el origen de la palabra evaluación, en seguida aflorará el concepto de **_valor_**: evaluar es dar valor a algo o a alguien. Dicho valor vendrá determinado por la percepción subjetiva de quien valora en relación a unos **criterios de evaluación**. Cuanto más precisados estén estos criterios (es decir, cuanto más sofisticada sea la rúbrica de evaluación), menor será el espacio otorgado a la subjetividad. Con todo, sortear la distancia entre la realidad objetiva y la interpretación que de ella hacemos, como veremos, no es tarea fácil.
 
 «La evaluación auténtica en la educación afectiva de lenguas extranjeras» de Viljo Kohonen (2000). 
 
