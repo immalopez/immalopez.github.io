@@ -15,7 +15,7 @@ En el [Punto de partida](https://immalopez.github.io/blog/punto-de-partida/) de 
 
 En consecuencia, a la hora de la verdad, en el momento de intentar elucidar **qué era la evaluación y cómo implementarla en el desarrollo del curso**, se nos presentaron muchas incógnitas. ¿Cómo diseñar y llevar a cabo un método evaluativo coherente con los objetivos didácticos que han determinado el contínuum de nuestras clases? ¿De qué sirve abogar por el trabajo de destrezas contextualizadas en el aula si después enfrentamos a nuestros aprendices a una prueba plagada de rellena huecos y otras prácticas de precisión? ¿A qué, cuándo y para qué dar prioridad, al producto o a la evolución? ¿Hay que medir a todos los estudiantes por el mismo rasero, a pesar de que tengan estilos de aprendizaje evidentemente distintos?
 
-Hoy quiero revisar con vosotros la naturaleza de esta actividad tan crucial para completar el ciclo de cualquier labor docente y, no obstante, olvidada demasiado a menudo por los teóricos del enfoque comunicativo.
+Hoy quiero revisar con vosotros la naturaleza de esta actividad tan crucial para completar el ciclo de cualquier labor docente y, no obstante, olvidada demasiado a menudo por los adscritos al enfoque comunicativo.
 
 
 
