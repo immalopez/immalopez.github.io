@@ -12,3 +12,5 @@ image:
 ---
 
 La evaluación 
+
+![Evaluación](/images/slider1.jpg)
