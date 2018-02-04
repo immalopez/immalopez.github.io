@@ -42,4 +42,4 @@ En definitiva, lo que se persigue con esta actividad, ya se ha dicho, es exponer
 
 ORTA, A. (2017): «Hablando de pronunciación con Antonio Orta», en L de Lengua. Disponible en línea: http://eledelengua.com/ldelengua-119-hablando-de-pronunciacion-con-antonio-orta/
 
-SANTAMARÍA BUSTO, E. (2006): «Enseñar prosodia en el aula: reflexiones y propuestas», en Las destrezas orales en la enseñanza del español L2-LE: XVII Congreso Internacional de la Asociación del Español como lengua extranjera (ASELE): Logroño / coord. por Enrique Balmaseda Maestu, Vol. 2, 2007, ISBN 978-84-96487-19-9, págs. 1237-1250).
+SANTAMARÍA BUSTO, E. (2006): «Enseñar prosodia en el aula: reflexiones y propuestas», en Las destrezas orales en la enseñanza del español L2-LE: XVII Congreso Internacional de la Asociación del Español como lengua extranjera (ASELE): Logroño / coord. por Enrique Balmaseda Maestu, Vol. 2, 2007, ISBN 978-84-96487-19-9, págs. 1237-1250.
