@@ -11,3 +11,5 @@ image:
 # modified: 2016-06-01T14:19:19-04:00
 ---
 Pronunciación
+
+![Transliteracion](/images/Screen Shot 2018-02-04 at 04.00.13.png)
