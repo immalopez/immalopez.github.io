@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Halldór
+title: Halldór Laxness y Juan Rulfo
 modified:
 categories: blog
 excerpt: "Las TIC en la didáctica de ELE"
