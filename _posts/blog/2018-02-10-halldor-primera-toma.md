@@ -11,7 +11,10 @@ image:
 # modified: 2016-06-01T14:19:19-04:00
 ---
 
-«_Vine a Comala porque me dijeron que acá vivía mi padre, un tal Pedro Páramo. Mi madre me lo dijo. Y yo le prometí que     vendría a verlo en cuanto ella muriera. Le apreté sus manos en señal de que lo haría; pues ella estaba por morirse y yo en plan de prometerlo todo_».
+p {
+    text-indent: 50px;
+«_Vine a Comala porque me dijeron que acá vivía mi padre, un tal Pedro Páramo. Mi madre me lo dijo. Y yo le prometí que     vendría a verlo en cuanto ella muriera. Le apreté sus manos en señal de que lo haría; pues ella estaba por morirse y yo en plan de prometerlo todo_».
+{
 
 Desde el preciso instante en que las leí, las frases del inicio de _Pedro Páramo_ se clavaron, como martillazos, en mi memoria infantil. Constituyen uno de esos principios que parecen escritos como se sopla el polvo de un mueble viejo; de esos que te abofetean en la cara y se erigen en himnos con la naturalidad de una canción primitiva. Todo lector que se precie ha sido víctima de uno de esos milagros: pienso en _Cien años de soledad_, _L’Étranger_ o _Anna Karenina_.
 
