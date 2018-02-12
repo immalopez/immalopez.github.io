@@ -20,5 +20,5 @@ Recuerdo que entonces todavía era una niña y quería darme aires de importanci
 
 # Halldór, el güero de México
 
-Halldór es un chico islandés de mi edad (24 años). De hecho, es el primer islandés que conozco y, desde luego, al primero que escucho hablar español. El destino nos ha unido gracias a un proyecto de telecomunicación llevado a cabo por nuestras respectivas universidades: la Universitat de Barcelona (a través de la asignatura del máster «Las TIC en la didáctica de ELE») y [_Háskóli Íslands_](http://english.hi.is).
+Halldór -o como él quiere que lo llame porque se piensa que su nombre es muy difícil de pronunciar, Aldo- es un chico de mi edad (24 años) que proviene de Islandia. De hecho, es el primer islandés que conozco y, desde luego, al primero que escucho hablar español. El destino nos ha unido gracias a un proyecto de telecomunicación llevado a cabo por nuestras respectivas universidades: la Universitat de Barcelona (a través de la asignatura del máster «Las TIC en la didáctica de ELE») y [_Háskóli Íslands_](http://english.hi.is).
 
