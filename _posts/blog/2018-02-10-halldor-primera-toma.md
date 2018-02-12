@@ -18,7 +18,7 @@ Desde el preciso instante en que las leí, las frases del inicio de _Pedro Pára
 
 Recuerdo que entonces todavía era una niña y quería darme aires de importancia por leer cosas de mayores; no obstante, nunca me he alegrado tanto de ser tan vanidosa. Por esa razón, cuando Halldór me preguntó, con su mezcla de acento islandés, italiano y mexicano, qué podía leer en español, no dudé en recomendarle enfrentarse a una lectura ardua, pero transformadora, como puede serlo el aprendizaje de cualquier lengua extranjera.
 
-# Halldór
+# Halldór, el güero de México
 
 Halldór es un chico islandés de mi edad (24 años). De hecho, es el primer islandés que conozco y, desde luego, al primero que escucho hablar español. El destino nos ha unido gracias a un proyecto de telecomunicación llevado a cabo por nuestras respectivas universidades: la Universitat de Barcelona (a través de la asignatura del máster «Las TIC en la didáctica de ELE») y [_Háskóli Íslands_](http://english.hi.is).
 
