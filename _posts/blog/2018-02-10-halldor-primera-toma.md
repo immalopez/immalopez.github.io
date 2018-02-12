@@ -18,7 +18,7 @@ Desde el preciso instante en que las leí, las frases del inicio de _Pedro Pára
 
 ![Comala](/images/1*hGtjO_a-QVl47qegs647uA.jpeg)
 
-Recuerdo que entonces todavía era una niña y quería darme aires de importancia por leer cosas de mayores; no obstante, nunca me he alegrado tanto de ser tan vanidosa. Por esa razón, cuando Halldór me preguntó, con su mezcla de acento islandés, italiano y mexicano, qué podía leer en español, no dudé en recomendarle enfrentarse a una lectura ardua, pero transformadora, como puede serlo el aprendizaje de cualquier lengua extranjera.
+Recuerdo que entonces todavía era una niña y quería darme aires de importancia por leer cosas de mayores; no obstante, nunca me he alegrado tanto de ser tan vanidosa. Por esa razón, cuando Halldór me preguntó, con su mezcla de acento islandés, italiano y mexicano, qué podía leer en español, no dudé en recomendarle enfrentarse a una lectura ardua, pero transformadora (como puede serlo el aprendizaje de cualquier lengua extranjera).
 
 # Halldór, el güero de México
 
