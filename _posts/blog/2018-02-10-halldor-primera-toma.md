@@ -16,7 +16,7 @@ image:
 
 Desde el preciso instante en que las leí, las frases del inicio de _Pedro Páramo_ se clavaron, como martillazos, en mi memoria infantil. Constituyen uno de esos principios que parecen escritos como se sopla el polvo de un mueble viejo; de esos que te abofetean en la cara y se erigen en himnos con la naturalidad de una canción primitiva. Todo lector que se precie ha sido víctima de uno de esos milagros: pienso en _Cien años de soledad_, _L’Étranger_ o _Anna Karenina_.
 
-Recuerdo que entonces todavía era una niña y quería darme aires de importancia por leer cosas de mayores; no obstante, nunca me he alegrado tanto de ser tan vanidosa. Por esa razón, cuando Halldór me preguntó, con su mezcla de acento islandés, italiano y mexicano, qué podía leer en español, no dudé en recomendarle enfrentarse a una lectura ardua, pero transformadora, como puede serlo el aprendizaje de cualquier lengua nueva.
+Recuerdo que entonces todavía era una niña y quería darme aires de importancia por leer cosas de mayores; no obstante, nunca me he alegrado tanto de ser tan vanidosa. Por esa razón, cuando Halldór me preguntó, con su mezcla de acento islandés, italiano y mexicano, qué podía leer en español, no dudé en recomendarle enfrentarse a una lectura ardua, pero transformadora, como puede serlo el aprendizaje de cualquier lengua extranjera.
 
 # Halldór
 
