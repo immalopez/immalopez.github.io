@@ -16,13 +16,13 @@ image:
 
 Desde el preciso instante en que las leí, las frases del inicio de _Pedro Páramo_ se clavaron, como martillazos, en mi memoria infantil. Constituyen uno de esos principios que parecen escritos como se sopla el polvo de un mueble viejo; de esos que te abofetean en la cara y se erigen en himnos con la naturalidad de una canción primitiva. Todo lector que se precie ha sido víctima de uno de esos milagros: pienso en _Cien años de soledad_, _L’Étranger_ o _Anna Karenina_.
 
+![Comala](/images/1*hGtjO_a-QVl47qegs647uA.jpeg)
+
 Recuerdo que entonces todavía era una niña y quería darme aires de importancia por leer cosas de mayores; no obstante, nunca me he alegrado tanto de ser tan vanidosa. Por esa razón, cuando Halldór me preguntó, con su mezcla de acento islandés, italiano y mexicano, qué podía leer en español, no dudé en recomendarle enfrentarse a una lectura ardua, pero transformadora, como puede serlo el aprendizaje de cualquier lengua extranjera.
 
 # Halldór, el güero de México
 
 Halldór -o, como él quiere que lo llame porque se piensa que su nombre es muy difícil de pronunciar, Aldo- es un chico de mi edad (24 años) que proviene de Islandia. De hecho, es el primer islandés que conozco y, desde luego, al primero que escucho hablar español. El destino nos ha unido gracias a un proyecto de telecomunicación llevado a cabo por nuestras respectivas universidades: la Universitat de Barcelona (a través de la asignatura del máster «Las TIC en la didáctica de ELE») y [_Háskóli Íslands_](http://english.hi.is). El objetivo de este intercambio a distancia es brindarnos la oportunidad, a nosotros, de poner en práctica las tecnologías que tenemos a nuestro alcance para la enseñanza de L2 y, a ellos, de practicar su español con hablantes nativos que además se están formando en la docencia de ELE.
-
-![Volcano](/images/Screen Shot 2018-02-12 at 02.26.50.png)
 
 La verdad es que, tanto ellos como nosotros, estamos entusiasmados con la idea y nos lo hemos tomado con mucha ilusión. Más aún, Halldór fue uno de los primeros estudiantes en ponerse en contacto con nosotros, y desde el primer día me estuvo mandando notas de voz por _WhatsApp_ haciéndome preguntas y contándome su historia. Me sorprendió ver que un nórdico era tan echado para adelante, a lo que él me respondió que «los raros son los finlandeses».
 
