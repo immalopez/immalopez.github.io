@@ -32,6 +32,8 @@ En general, Halldór es un chico muy aventurero y desprovisto de complejos. Las 
 
 Una de las cosas que más disfruto de este intercambio, más allá de la divertida personalidad de Halldór, es su predilección por México. Gracias a él, he aprendido _un chingo_ de vocabulario nuevo, como la palabra _güero_ (‘rubio’), mediante la cual todo el mundo allí se le dirigía; o cuestiones culturales como la leyenda popular de [_La Llorona_](https://es.wikipedia.org/wiki/Llorona). También me ha mostrado muchas canciones latinoamericanas que le gustan. Me parece interesantísimo poder descubrir aspectos nuevos de mi lengua materna a través de los ojos de un extranjero, así como tener la oportunidad de 'ensayar' la docencia a distancia con gente de nuestra edad a la que, por tanto, podemos identificar como amigos.
 
+![Mexico](/images/112085-mexican-elements-lineal.png)
+
 Mis impresiones sobre este primer _tête à tête_ son, pues, muy positivas. He podido conocer a Halldór y hacerme una idea de sus intereses y necesidades (de las que hablaré más adelante), del mismo modo que me ha contado cosas muy curiosas sobre su país, y, lo mejor de todo, es que me he sentido muy cómoda durante todo el proceso. De hecho, tuvimos algunos problemas técnicos que nos obligaron a repetir la grabación de nuestra videollamada por _Hangouts_ hasta tres veces; sin embargo, él nunca perdió la paciencia ni el buen humor. Dicha toma de contacto me ayudará a pensar en actividades futuras de cara al proyecto de telecomunicación.
 
 Por ahora, nos esperan tareas grupales debido a las cuales tendremos que interactuar con más compañeros. Me pregunto si los demás islandeses serán tan _chidos_ como El Güero. Es posible que no, pero aguardo el momento con impaciencia. Os iré manteniendo informados.
