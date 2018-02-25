@@ -194,6 +194,10 @@ span + .entry-title {
 		margin-top: 0;
 	}
 
+	p {
+		text-align: justify;
+	}
+
 	@include media($large) {
 		@include span-columns(9.5);
 	}
