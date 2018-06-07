@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Propuesta de una actividad para enseñar pronunciación
+title: Efectos vocales. Una actividad para enseñar pronunciación
 modified:
 categories: blog
 excerpt: "Pronunciación en la didáctica de ELE"
