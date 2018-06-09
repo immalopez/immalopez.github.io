@@ -36,7 +36,7 @@ EF sigue un modelo de negocio que se fundamenta en complementar el estudio forma
 
 Pacté con Mireia que en el decurso de las prácticas íbamos a incidir en mis deberes pendientes –enumerados al principio de esta entrada: dinámicas, secuenciación y adecuación al nivel–, si bien no podríamos tratarlos todos con el mismo nivel de profundidad. Asimismo, optamos por seguir una dinámica de retroalimentación similar a la del Curso de Formación de Profesores de E/LE de IH: **triangulación** entre la **autoevaluación inmediata** después de una actuación docente, el **_feedback_ aportado por la tutora** y la posterior **visualización de la grabación** de dicha actuación (efectuada, por cierto, a través de la plataforma <a href="https://portal.veo-group.com/" target="_blank">_VEO_</a>, que ya habíamos utilizado en el máster para la realización de la actividad de **_microteaching_**).
 
-![Aula](/images/Screen Shot 2018-06-09 at 09.39.10.png)
+![Aula](/images/Screen Shot 2018-06-09 at 09.43.33.png)
 
 De la reflexión obtenida a partir de este procedimiento, así como de la observación llevada a cabo en las clases de Mireia, siento que extraje aprendizajes diversos, la mayoría de los cuales consistieron en afianzar la teoría que traía del curso de IH y la que se ha ido tocando en el máster. Valoro especialmente la forma en que la tutora desarrollaba las presentaciones de lenguaje, de acuerdo con los principios de la **gramática cognitiva**, incluyendo dibujos y reflexiones interlingüísticas. Además, frente a la formulación de preguntas inesperadas por parte de los educandos, parecía tener la habilidad de inducir reglas al momento a partir de la comparación de ejemplos. Diría que, en lo tocante a nuestras prioridades en el aula, somos bastante parecidas.
 
