@@ -28,4 +28,4 @@ Todas estas constataciones me consolaron, porque lo cierto es que mi paso por la
 # ... Al laboratorio
 ![Laboratorio](/images/soddos.jpeg)
 
-Llegó el segundo trimestre del máster y con él la oportunidad de realizar las prácticas docentes. Tras algunos contratiempos burocráticos, finalmente me fue asignada otra escuela enorme (en términos económicos): <a href="https://www.ef.com.es" target="_blank">**_EF Education First_**</a>, bautizada por <a href="http://rlarizbeascoa.blogspot.com/?m=1" target="_blank">mi compañero Roberto</a> como el «**laboratorio**» por sus características paredes de cristal.
+Llegó el segundo trimestre del máster y con él la oportunidad de realizar las prácticas docentes correspondientes. Tras algunos contratiempos burocráticos, finalmente me fue asignada otra escuela enorme (en términos económicos): <a href="https://www.ef.com.es" target="_blank">**_EF Education First_**</a>, bautizada por <a href="http://rlarizbeascoa.blogspot.com/?m=1" target="_blank">mi compañero Roberto</a> como el «**laboratorio**» por sus características paredes de cristal.
