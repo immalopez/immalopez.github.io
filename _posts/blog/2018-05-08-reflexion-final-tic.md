@@ -25,8 +25,8 @@ sdsdsds
       <td width="50%"><img src="/images/lisistrata.jpg"/></td>
       <td><img src="/images/con toda.jpg"/></td>
         <tr>
-        <th><a href="https://www.ivoox.com/25247640" target="_blank"><i>Nýfallið  regn</i> de Ásgeir Trausti</th>
-        <th><a href="http://www.ivoox.com/25479947" target="_blank"><i>Sirve mi café temprano</i> de Gera Mx</th></tr>
+        <td><a href="https://www.ivoox.com/25247640" target="_blank"><i>Nýfallið  regn</i> de Ásgeir Trausti</td>
+        <td><a href="http://www.ivoox.com/25479947" target="_blank"><i>Sirve mi café temprano</i> de Gera Mx</th></td>
      <td width="50%"><img src="/images/nyfallid.jpg"/></td>
       <td><img src="/images/sirve mi cafe.jpg"/></td>
       </tbody>
