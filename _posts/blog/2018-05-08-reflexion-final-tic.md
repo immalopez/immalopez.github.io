@@ -26,10 +26,10 @@ sdsdsds
       </th>
     </tr>
     <tr>
-      <td width="25%">
+      <td width="25%" style="padding:0px;">
         <center><img src="/images/lisistrata.png" /></center>
       </td>
-      <td width="25%">
+      <td width="25%" style="padding:0px;">
         <center><img src="/images/con toda.png" /></center>
       </td>
     </tr>
@@ -42,10 +42,10 @@ sdsdsds
       </th>
     </tr>
     <tr>
-      <td width="25%">
+      <td width="25%" style="padding:0px;">
         <center><img src="/images/nyfallid.png" /></center>
       </td>
-      <td width="25%">
+      <td width="25%" style="padding:0px;">
         <center><img src="/images/sirve mi cafe.png" /></center>
       </td>
     </tr>
