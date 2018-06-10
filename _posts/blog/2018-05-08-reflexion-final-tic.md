@@ -27,10 +27,10 @@ sdsdsds
     </tr>
     <tr>
       <td width="25%">
-        <img src="/images/lisistrata.png" />
+        <center><img src="/images/lisistrata.png" /></center>
       </td>
       <td width="25%">
-        <img src="/images/con toda.png" />
+        <center><img src="/images/con toda.png" /></center>
       </td>
     </tr>
     <tr>
@@ -43,10 +43,10 @@ sdsdsds
     </tr>
     <tr>
       <td width="25%">
-        <img src="/images/nyfallid.png" />
+        <center><img src="/images/nyfallid.png" /></center>
       </td>
       <td width="25%">
-        <img src="/images/sirve mi cafe.png" />
+        <center><img src="/images/sirve mi cafe.png" /></center>
       </td>
     </tr>
   </tbody>
