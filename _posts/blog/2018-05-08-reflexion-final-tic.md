@@ -22,12 +22,12 @@ sdsdsds
       <th><a href="https://www.ivoox.com/25206586" target="_blank"><i>Con toda palabra</i> de Lhasa de Sela</th>
     </tr>
     <tr>
-      <td width="50%"><img src="/images/lisistrata.jpg"/></td>
-      <td><img src="/images/con toda.jpg"/></td>
+      <td width="50%"><img src="/images/lisistrata.png"/></td>
+      <td><img src="/images/con toda.png"/></td>
         <tr>
         <td><a href="https://www.ivoox.com/25247640" target="_blank"><i>Nýfallið  regn</i> de Ásgeir Trausti</td>
         <td><a href="http://www.ivoox.com/25479947" target="_blank"><i>Sirve mi café temprano</i> de Gera Mx</td>
-     <td><img src="/images/nyfallid.jpg"/></td>
-      <td><img src="/images/sirve mi cafe.jpg"/></td>
+     <td><img src="/images/nyfallid.png"/></td>
+      <td><img src="/images/sirve mi cafe.png"/></td>
       </tbody>
 </table>
