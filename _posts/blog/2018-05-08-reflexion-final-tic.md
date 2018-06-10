@@ -14,3 +14,20 @@ image:
 sdsdsds
 
 ![Portada](/images/Screen Shot 2018-06-10 at 15.18.35.png)
+
+<table width="100%">
+  <tbody>
+    <tr>
+      <th><a href="https://www.ivoox.com/24833451" target="_blank"><i>Lisístrata</i> de Gata Cattana</a></th>
+      <th><a href="https://www.ivoox.com/25206586" target="_blank"><i>Con toda palabra</i> de Lhasa de Sela</th>
+    </tr>
+    <tr>
+      <td width="50%"><img src="/images/lisistrata.jpg"/></td>
+      <td><img src="/images/con toda.jpg"/></td>
+        <tr>
+        <th><a href="https://www.ivoox.com/25247640" target="_blank"><i>Nýfallið  regn</i> de Ásgeir Trausti</th>
+        <th><a href="http://www.ivoox.com/25479947" target="_blank"><i>Sirve mi café temprano</i> de Gera Mx</th></tr>
+     <td width="50%"><img src="/images/nyfallid.jpg"/></td>
+      <td><img src="/images/sirve mi cafe.jpg"/></td>
+      </tbody>
+</table>
