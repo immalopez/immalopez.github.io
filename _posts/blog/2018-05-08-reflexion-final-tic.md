@@ -27,10 +27,10 @@ sdsdsds
     </tr>
     <tr>
       <td width="25%">
-        <img src="/images/lisistrata.png"/>
+        <img src="/images/lisistrata.png" />
       </td>
       <td width="25%">
-        <img src="/images/con toda.png"/>
+        <img src="/images/con toda.png" />
       </td>
       </tr>
     <tr>
@@ -41,10 +41,10 @@ sdsdsds
           <a href="http://www.ivoox.com/25479947" target="_blank"><i>Sirve mi café temprano</i> de Gera Mx
             </th>
      <td width="25%">
-       <img src="/images/nyfallid.png"/>
+       <img src="/images/nyfallid.png" />
       </td>
       <td width="25%">
-        <img src="/images/sirve mi cafe.png"/>
+        <img src="/images/sirve mi cafe.png" />
       </td>
           </tr>
       </tbody>
