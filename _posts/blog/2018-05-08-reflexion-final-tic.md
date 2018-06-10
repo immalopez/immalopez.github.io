@@ -23,11 +23,11 @@ sdsdsds
     </tr>
     <tr>
       <td width="50%"><img src="/images/lisistrata.png"/></td>
-      <td><img src="/images/con toda.png"/></td>
+      <td width="50%"><img src="/images/con toda.png"/></td>
         <tr>
-        <td><a href="https://www.ivoox.com/25247640" target="_blank"><i>Nýfallið  regn</i> de Ásgeir Trausti</td>
-        <td><a href="http://www.ivoox.com/25479947" target="_blank"><i>Sirve mi café temprano</i> de Gera Mx</td>
-     <td><img src="/images/nyfallid.png"/></td>
-      <td><img src="/images/sirve mi cafe.png"/></td>
+        <td width="50%"><a href="https://www.ivoox.com/25247640" target="_blank"><i>Nýfallið  regn</i> de Ásgeir Trausti</td>
+        <td width="50%"><a href="http://www.ivoox.com/25479947" target="_blank"><i>Sirve mi café temprano</i> de Gera Mx</td>
+     <td width="50%"><img src="/images/nyfallid.png"/></td>
+      <td width="50%"><img src="/images/sirve mi cafe.png"/></td>
       </tbody>
 </table>
