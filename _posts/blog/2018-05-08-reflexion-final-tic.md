@@ -13,4 +13,4 @@ image:
 
 sdsdsds
 
-![Portada](/images/Screen Shot 2018-06-10 at 15.13.12.png)
+![Portada](/images/Screen Shot 2018-06-10 at 15.18.35.png)
