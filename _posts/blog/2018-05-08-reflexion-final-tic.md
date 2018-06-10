@@ -18,18 +18,33 @@ sdsdsds
 <table width="100%">
   <tbody>
     <tr>
-      <th><a href="https://www.ivoox.com/24833451" target="_blank"><i>Lisístrata</i> de Gata Cattana</a></th>
-      <th><a href="https://www.ivoox.com/25206586" target="_blank"><i>Con toda palabra</i> de Lhasa de Sela</th>
+      <th>
+        <a href="https://www.ivoox.com/24833451" target="_blank"><i>Lisístrata</i> de Gata Cattana</a>
+      </th>
+      <th>
+        <a href="https://www.ivoox.com/25206586" target="_blank"><i>Con toda palabra</i> de Lhasa de Sela
+          </th>
     </tr>
     <tr>
-      <td width="50%"><img src="/images/lisistrata.png"/></td>
-      <td width="50%"><img src="/images/con toda.png"/></td>
+      <td width="50%">
+        <img src="/images/lisistrata.png"/>
+      </td>
+      <td width="50%">
+        <img src="/images/con toda.png"/>
+      </td>
       </tr>
-        <tr>
-        <td width="50%"><a href="https://www.ivoox.com/25247640" target="_blank"><i>Nýfallið  regn</i> de Ásgeir Trausti</td>
-        <td width="50%"><a href="http://www.ivoox.com/25479947" target="_blank"><i>Sirve mi café temprano</i> de Gera Mx</td>
-     <td width="50%"><img src="/images/nyfallid.png"/></td>
-      <td width="50%"><img src="/images/sirve mi cafe.png"/></td>
+    <tr>
+        <td width="50%">
+          <a href="https://www.ivoox.com/25247640" target="_blank"><i>Nýfallið  regn</i> de Ásgeir Trausti
+            </td>
+        <td width="50%">
+          <a href="http://www.ivoox.com/25479947" target="_blank"><i>Sirve mi café temprano</i> de Gera Mx
+            </td>
+     <td width="50%"><img src="/images/nyfallid.png"/>
+      </td>
+      <td width="50%">
+        <img src="/images/sirve mi cafe.png"/>
+      </td>
           </tr>
       </tbody>
 </table>
