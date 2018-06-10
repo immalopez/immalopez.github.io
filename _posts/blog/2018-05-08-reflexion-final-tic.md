@@ -11,4 +11,6 @@ image:
 # modified: 2016-06-01T14:19:19-04:00
 ---
 
-![Portada](images/Screen Shot 2018-06-10 at 15.13.12.png)
+sdsdsds
+
+![Portada](/images/Screen Shot 2018-06-10 at 15.13.12.png)
