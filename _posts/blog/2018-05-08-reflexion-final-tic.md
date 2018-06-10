@@ -34,12 +34,12 @@ sdsdsds
       </td>
       </tr>
     <tr>
-        <td>
+        <th>
           <a href="https://www.ivoox.com/25247640" target="_blank"><i>Nýfallið  regn</i> de Ásgeir Trausti
-            </td>
-        <td>
+            </th>
+        <th>
           <a href="http://www.ivoox.com/25479947" target="_blank"><i>Sirve mi café temprano</i> de Gera Mx
-            </td>
+            </th>
      <td><img src="/images/nyfallid.png"/>
       </td>
       <td>
