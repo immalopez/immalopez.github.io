@@ -19,10 +19,10 @@ sdsdsds
   <tbody>
     <tr>
       <th>
-        <a href="https://www.ivoox.com/24833451" target="_blank"><i>Lisístrata</i> de Gata Cattana</a>
+        <center><a href="https://www.ivoox.com/24833451" target="_blank"><i>Lisístrata</i> de Gata Cattana</a></center>
       </th>
       <th>
-        <a href="https://www.ivoox.com/25206586" target="_blank"><i>Con toda palabra</i> de Lhasa de Sela</a>
+        <center><a href="https://www.ivoox.com/25206586" target="_blank"><i>Con toda palabra</i> de Lhasa de Sela</a></center>
       </th>
     </tr>
     <tr>
@@ -35,10 +35,10 @@ sdsdsds
     </tr>
     <tr>
       <th>
-        <a href="https://www.ivoox.com/25247640" target="_blank"><i>Nýfallið  regn</i> de Ásgeir Trausti</a>
+        <center><a href="https://www.ivoox.com/25247640" target="_blank"><i>Nýfallið  regn</i> de Ásgeir Trausti</a></center>
       </th>
       <th>
-        <a href="http://www.ivoox.com/25479947" target="_blank"><i>Sirve mi café temprano</i> de Gera Mx</a>
+        <center><a href="http://www.ivoox.com/25479947" target="_blank"><i>Sirve mi café temprano</i> de Gera Mx</a></center>
       </th>
     </tr>
     <tr>
