@@ -15,7 +15,7 @@ sdsdsds
 
 ![Portada](/images/Screen Shot 2018-06-10 at 15.18.35.png)
 
-<table width="100%">
+<table width="50%">
   <tbody>
     <tr>
       <th>
@@ -26,10 +26,10 @@ sdsdsds
           </th>
     </tr>
     <tr>
-      <td width="50%">
+      <td width="25%">
         <img src="/images/lisistrata.png"/>
       </td>
-      <td>
+      <td width="25%">
         <img src="/images/con toda.png"/>
       </td>
       </tr>
@@ -40,9 +40,10 @@ sdsdsds
         <th>
           <a href="http://www.ivoox.com/25479947" target="_blank"><i>Sirve mi café temprano</i> de Gera Mx
             </th>
-     <td><img src="/images/nyfallid.png"/>
+     <td width="25%">
+       <img src="/images/nyfallid.png"/>
       </td>
-      <td>
+      <td width="25%">
         <img src="/images/sirve mi cafe.png"/>
       </td>
           </tr>
