@@ -21,6 +21,8 @@ Optamos por este proyecto ateniéndonos a las diferencias que mediaban entre nue
 
 ![Portada](/images/Screen Shot 2018-06-10 at 15.18.35.png)
 
+Consideramos que la música constituye una expresión artística lo bastante variada, compleja, profunda e idiosincrática como para apelar a la sensibilidad de los estudiantes más allá de sus diferencias y **propiciar un aprendizaje lingüístico y cultural significativo**. Por esta razón, y como detallamos en el enlace aportado más arriba, perfilamos un **andamiaje de actividades** que exigiera a los pupilos buscar y compartir distintas canciones, con su correspondiente historia e información, a fin de elegir las favoritas del grupo; crear unos guiones para la grabación de cada _podcast_; improvisar hacia el final del mismo discutiendo acerca del significado y las referencias presentes en la letra de las canciones, y editar después dicha grabación para subirla al canal del programa de radio.
+
 <table width="50%">
   <tbody>
     <tr>
