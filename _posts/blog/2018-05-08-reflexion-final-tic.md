@@ -11,7 +11,7 @@ image:
 # modified: 2016-06-01T14:19:19-04:00
 ---
 
-El pasado 14 de abril concluyó el <a href="https://docs.google.com/document/d/1H58zZLbBANnXFQOmvcGZtIKY-Ss6r7NqzxZAXsKW3bU/edit?usp=sharing" target="_blank">**Proyecto 2.0**</a> que los alumnos de la UB creamos para <a href="https://immalopez.github.io/blog/halldor-primera-toma/" target="_blank">nuestros compañeros islandeses</a> y, con él, la **Telecolaboración** entre nuestras universidades.
+El pasado 14 de abril concluyó el <a href="https://docs.google.com/document/d/1H58zZLbBANnXFQOmvcGZtIKY-Ss6r7NqzxZAXsKW3bU/edit?usp=sharing" target="_blank">**Proyecto 2.0**</a> que los alumnos de la UB creamos para <a href="https://immalopez.github.io/blog/halldor-primera-toma/" target="_blank">nuestros compañeros islandeses</a> y, con él, la **Telecolaboración** entre nuestras respectivas universidades.
 
 ![Portada](/images/Screen Shot 2018-06-10 at 15.18.35.png)
 
