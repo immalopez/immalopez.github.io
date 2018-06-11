@@ -15,7 +15,7 @@ El pasado 14 de abril, <a href="https://www.laopinioncoruna.es/contraportada/201
 
 # El Proyecto 2.0: _Música a todo trapo_
 
-En nuestro caso concreto (el de <a href="https://verborreadeverba-errante.blogspot.com" target="_blank">Laia</a>, <a href="http://elefantearana.blogspot.com" target="_blank">Fran</a>, <a href="http://ele365.blogspot.com" target="_blank">Naomi</a> y yo), la tarea final que ideamos consistía en la creación de un programa de radio, **_Música a todo trapo_**, en el que los aprendices islandeses tenían que grabar y subir a la red, mediante la aplicación <a href="https://www.ivoox.com" target="_blank">**_iVoox_**</a>, _podcasts_ en grupo discutiendo piezas de música hispana e islandesa.
+En nuestro caso concreto (el de <a href="https://verborreadeverba-errante.blogspot.com" target="_blank">Laia</a>, <a href="http://elefantearana.blogspot.com" target="_blank">Fran</a>, <a href="http://ele365.blogspot.com" target="_blank">Naomi</a> y yo), la tarea final que ideamos consistía en la creación de un programa de radio, **_Música a todo trapo_**, para cuya consecución los aprendices islandeses tenían que grabar, producir y subir a la red, mediante la aplicación <a href="https://www.ivoox.com" target="_blank">**_iVoox_**</a>, _podcasts_ en grupo discutiendo piezas de música hispana e islandesa.
 
 ![Portada](/images/Screen Shot 2018-06-10 at 15.18.35.png)
 
