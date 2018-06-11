@@ -62,4 +62,5 @@ Por tanto, mediante la realización de esta tarea pretendíamos que los educando
   </tbody>
 </table>
 
+</br>
 Respecto al **sistema de evaluación**, quisimos experimentar con <a href="https://immalopez.github.io/blog/evaluacion-antes-y-despues/" target="_blank">los nuevos conocimientos adquiridos en la asignatura del máster destinada a este efecto</a>, por lo que creamos y pusimos en práctica, con mayor y menor éxito, unas **rúbricas de auto, co y heteroevaluación**. 
