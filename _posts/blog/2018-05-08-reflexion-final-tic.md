@@ -11,7 +11,7 @@ image:
 # modified: 2016-06-01T14:19:19-04:00
 ---
 
-El pasado 14 de abril concluyó el <a href="https://docs.google.com/document/d/1H58zZLbBANnXFQOmvcGZtIKY-Ss6r7NqzxZAXsKW3bU/edit?usp=sharing" target="_blank">**Proyecto 2.0**</a> que los alumnos de la UB creamos para <a href="https://immalopez.github.io/blog/halldor-primera-toma/" target="_blank">nuestros compañeros islandeses</a> y, con él, la **Telecolaboración** entre nuestras respectivas universidades. Junto a <a href="https://verborreadeverba-errante.blogspot.com" target="_blank">Laia</a>, <a href="http://elefantearana.blogspot.com" target="_blank">Fran</a> y <a href="http://ele365.blogspot.com" target="_blank">Naomi</a>, 
+El pasado 14 de abril concluyó el <a href="https://docs.google.com/document/d/1H58zZLbBANnXFQOmvcGZtIKY-Ss6r7NqzxZAXsKW3bU/edit?usp=sharing" target="_blank">**Proyecto 2.0**</a> que los alumnos de la UB diseñamos para <a href="https://immalopez.github.io/blog/halldor-primera-toma/" target="_blank">nuestros compañeros islandeses</a> y, con él, la **Telecolaboración** entre nuestras respectivas universidades. En mi caso, junto a mis compañeros <a href="https://verborreadeverba-errante.blogspot.com" target="_blank">Laia</a>, <a href="http://elefantearana.blogspot.com" target="_blank">Fran</a> y <a href="http://ele365.blogspot.com" target="_blank">Naomi</a>, ideé una tarea que consistía en la creación de un programa de radio, **_Música a todo trapo_**.
 
 ![Portada](/images/Screen Shot 2018-06-10 at 15.18.35.png)
 
