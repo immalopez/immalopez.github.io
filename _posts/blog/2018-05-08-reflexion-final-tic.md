@@ -73,4 +73,9 @@ A pesar de las vicisitudes que nos ha tocado enfrentar por cuestión de horarios
 
 ![typing](/images/Online-class-prepared.jpg)
 
+Sin lugar a dudas, y siendo totalmente sincera, me habría gustado ver materializados más _podcasts_. No obstante, reconozco las limitaciones que comporta la organización accidentada entre siete personas y me quedo con las inmensas **ganas de participar** que demostraron los islandeses a la hora de grabarse: todos los comentarios de canciones tienen una duración superior a la planeada y no se quedan en lo obvio. Esto y el hecho de que nuestros aprendientes pudieran realizar el último _podcast_ de forma totalmente autónoma me parecen dos indicadores indiscutibles del éxito de la tarea.
 
+Con toda probabilidad, en algún momento de mi carrera volveré a encontrarme con el mundo del _e-Learning_ y, para entonces, estoy segura, esta experiencia se demostrará muy valiosa y productiva. Así pues, doy las gracias a <a href="https://espanoladistancia.wordpress.com/sobre-la-autora/" target="_blank">Olivia</a> y <a href="http://www.ub.edu/realtic/es/joan-tomas-pujola-font/" target="_blank">Joan-Tomàs</a>, los profesores de la asignatura de «Las TIC en la didáctica de ELE», a Pilar y a nuestros compañeros islandeses por brindarnos esta oportunidad. Ha sido un verdadero placer completar misiones tan libres y creativas como los retos propuestos por los tutores en el decurso de estos meses. Accidentados o no, constituyen un paquete capaz de sobrevivir a cualquier traspiés de Correos :-)
+
+Hasta pronto,
+Imma
