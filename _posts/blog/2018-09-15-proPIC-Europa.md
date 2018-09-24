@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hacerse el sueco en Suecia
+title: Haciéndonos los suecos en Suecia
 modified:
 categories: blog
 excerpt: "proPIC Europa"
