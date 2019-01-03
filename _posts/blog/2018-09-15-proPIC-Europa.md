@@ -16,7 +16,11 @@ Todo se debe al <a href="http://www.propiceuropa.com" target="_blank">**proyecto
 
 ![victoria](/images/Screen Shot 2018-09-24 at 21.52.32.png)
 
+# La estancia
+
 # Mi proyecto de investigación
 
 ![objetivo](/images/Screen Shot 2018-09-24 at 22.19.20.png)
 ![metodología](/images/Screen Shot 2018-09-24 at 22.19.48.png)
+
+# Impresiones
