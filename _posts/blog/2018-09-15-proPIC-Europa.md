@@ -30,6 +30,8 @@ Esta dinámica de trabajo me recordó mucho a lo que hacía yo en el instituto p
 
 ![Aula interactiva](/images/IMG_5834.JPG)
 
+El miércoles nos dieron la mañana libre para que pudiéramos trabajar en nuestros proyectos de investigación y después acudir a los profesores con nuevas dudas. Por la tarde acudimos a un taller de Tobias sobre <a href="https://www.veo-group.com" target="_blank">**VEO (_Video Enhanced Observation_)**</a>, una aplicación muy interesante que nosotros ya habíamos utilizado en el máster para llevar a cabo una evaluación triangular (de nuestras propias impresiones al ejecutarlo, de las de nuestros compañeros al vernos y de la observación posterior del vídeo) del <a href="https://en.wikipedia.org/wiki/Microteaching" target="_blank">**_microteaching_**</a> que realizamos a fin de prepararnos para las <a href="https://immalopez.github.io/blog/cierre-practicas/" target="_blank">prácticas docentes</a>.
+
 # Mi proyecto de investigación
 
 ![objetivo](/images/Screen Shot 2018-09-24 at 22.19.20.png)
