@@ -18,6 +18,8 @@ Todo se debe al <a href="http://www.propiceuropa.com" target="_blank">**proyecto
 
 # La estancia
 
+Llegamos a <a href="https://es.wikipedia.org/wiki/Borås" target="_blank">Borås</a> el domingo 9 de septiembre, vimos de refilón a nuestras contrapartes alemanas, con las que íbamos a compartir el resto de la semana, y nos instalamos en el apartamento que la universidad nos había ayudado a encontrar. Después fuimos a buscar comida -o, más bien, a alucinar con los precios del supermercado-, y los procrastinadores nos pusimos a ultimar los detalles de la presentación que tendríamos que realizar al día siguiente sobre el proyecto de investigación.
+
 # Mi proyecto de investigación
 
 ![objetivo](/images/Screen Shot 2018-09-24 at 22.19.20.png)
