@@ -24,7 +24,7 @@ El lunes dio comienzo oficialmente la _study week_, así como la rutina de llega
 
 ![Roberto y Natalia tocando la guitarra en la universidad](/images/IMG_5839.JPG)
 
-El martes fuimos a <a href="https://en.wikipedia.org/wiki/Sandared" target="_blank">Sandared</a> para observar una clase de secundaria.
+El martes fuimos a <a href="https://en.wikipedia.org/wiki/Sandared" target="_blank">Sandared</a> para observar, analizar y después discutir una clase de inglés en secundaria impartida por Per Selin. Roberto Requena (el terror de las nenas), también conocido como _Latin lover_, causó mucho revuelo entre las adolescentes suecas. En Suecia no existen las escuelas privadas, y el Estado se encarga de que todos los estudiantes tengan un _MacBook_, en torno al cual parecen girar la mayoría de las lecciones. En la clase que vimos, los estudiantes tenían que diseñar un anuncio para promocionar un objeto, una causa o cualquier otro tema de su elección. El profesor había colgado las instrucciones en la plataforma <a href="https://edu.google.com/intl/es-419/k-12-solutions/classroom/?modal_active=none" target="_blank">_Google Classroom_</a> y los alumnos trabajaban por su cuenta, pidiéndole ayuda al mismo cuando era necesario. Esta dinámica de trabajo me recordó mucho a lo que hacía en el instituto en el que enseñaba inglés, con la salvedad de que este docente no parecía apreciar el humor y la originalidad de sus estudiantes, cuando a mí me parece una prueba sólida de su competencia comunicativa (no sé si esto se debe a una diferencia cultural o a la idiosincrasia de esa persona en concreto).
 
 # Mi proyecto de investigación
 
