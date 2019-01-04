@@ -36,6 +36,8 @@ El jueves nos volvimos a ir de excursión: esta vez al <a href="https://campus.v
 
 ![A la salida del restaurante en Varberg](/images/41900436_2080705201959978_2742273048685051904_n.jpg)
 
+El viernes asistimos durante todo el día a un **seminario de investigación** de la <a href="https://www.hv.se/en/" target="_blank">_**University West**_</a> en <a href="https://es.wikipedia.org/wiki/Trollhättan" target="_blank">Trollhättan</a>, durante el cual ponentes de diversas instituciones ofrecieron conferencias acerca del futuro de la educación en general, y del aula en particular, gracias a las nuevas tecnologías (haciendo especial hincapié en la formación de docentes): **simulaciones**, **realidad virtual**, **avatares**... Resultó muy ilustrativo poder ver (e incluso testear) ejemplos prácticos y hacer preguntas a los investigadores sobre su experiencia personal implementando estas innovaciones en el espacio clase. Algunos de los usos que se está pensando dar a dichas tecnologías no se nos habrían ocurrido nunca. Una vez de nuevo en Borås, nos despedimos definitivamente de Tobias, y Natalia y yo tomamos el bus hacia Gotemburgo para aprovechar bien el viaje.
+
 # Mi proyecto de investigación
 
 ![objetivo](/images/Screen Shot 2018-09-24 at 22.19.20.png)
