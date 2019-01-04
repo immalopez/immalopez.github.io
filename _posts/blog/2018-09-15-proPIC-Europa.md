@@ -40,6 +40,8 @@ El viernes asistimos durante todo el día a un **seminario de investigación** d
 
 # Mi proyecto de investigación
 
+Como el resto de mis compañeros, he tratado de integrar este proyecto de investigación con mi Trabajo Final de Máster.
+
 ![objetivo](/images/Screen Shot 2018-09-24 at 22.19.20.png)
 ![metodología](/images/Screen Shot 2018-09-24 at 22.19.48.png)
 
