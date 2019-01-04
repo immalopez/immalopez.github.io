@@ -44,7 +44,7 @@ Como el resto de mis compañeros, he tratado de integrar este proyecto de invest
 
 ![objetivo](/images/Screen Shot 2018-09-24 at 22.19.20.png)
 
-
+En principio, los mejores proyectos serán seleccionados para una conferencia internacional que tendrá lugar en 2020, año en el que se dará por terminada la iniciativa de _proPIC Europa_ (hasta entonces, se irán organizando dos _study weeks_ cada año con distintos alumnos interesados en realizar colaboraciones transnacionales). Espero poder tener tiempo para dedicarlo a desarrollar mi trabajo lo bastante bien como para clasificarme y dar a conocer mis ideas al mundo.
 
 ![metodología](/images/Screen Shot 2018-09-24 at 22.19.48.png)
 
