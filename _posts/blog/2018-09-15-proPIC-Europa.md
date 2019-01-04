@@ -40,7 +40,7 @@ El viernes asistimos durante todo el día a un **seminario de investigación** d
 
 # Mi proyecto de investigación
 
-Como el resto de mis compañeros, he tratado de integrar este proyecto de investigación con mi Trabajo Final de Máster.
+Como el resto de mis compañeros, he tratado de integrar este proyecto de investigación con mi Trabajo Final de Máster, que consistirá en la creación de una aplicación móvil para el aprendizaje del español destinado al colectivo migrante recién llegado a Barcelona.
 
 ![objetivo](/images/Screen Shot 2018-09-24 at 22.19.20.png)
 ![metodología](/images/Screen Shot 2018-09-24 at 22.19.48.png)
