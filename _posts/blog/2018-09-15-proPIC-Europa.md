@@ -44,8 +44,10 @@ Como el resto de mis compañeros, he tratado de integrar este proyecto de invest
 
 ![objetivo](/images/Screen Shot 2018-09-24 at 22.19.20.png)
 
-En principio, los mejores proyectos serán seleccionados para una conferencia internacional que tendrá lugar en 2020, año en el que se dará por terminada la iniciativa de _proPIC Europa_ (hasta entonces, se irán organizando dos _study weeks_ cada año con distintos alumnos interesados en realizar colaboraciones transnacionales). Espero poder tener tiempo para dedicarlo a desarrollar mi trabajo lo bastante bien como para clasificarme y dar a conocer mis ideas al mundo.
+En principio, los mejores proyectos serán seleccionados para una conferencia internacional que tendrá lugar en 2020, año en el que se dará por terminada la iniciativa de _proPIC Europa_ (hasta entonces, se irán organizando dos _study weeks_ cada año con distintos alumnos interesados en realizar colaboraciones transnacionales). Espero poder tener tiempo para dedicarlo a desarrollar mi trabajo lo bastante bien como para clasificarme y dar a conocer mis ideas al mundo. ¡Os mantendré informados!
 
 ![metodología](/images/Screen Shot 2018-09-24 at 22.19.48.png)
 
-# Impresiones
+Para terminar, me gustaría decir que me alegra enormemente haber aprovechado esta oportunidad, no solo por lo que he aprendido sobre el sistema educativo sueco, sino porque he podido constatar que nosotros mismos no estamos tan mal. Durante toda la semana tuve la sensación de que, tal vez dejándose llevar por prejuicios, tanto los profesores Tobias y Richard como las estudiantes alemanas, parecían dar por sentado que en España estábamos más atrasados que ellos, cuando lo cierto es que no tenemos nada que envidiar a los países nórdicos -me ciño exclusivamente a lo tocante a la enseñanza de E/LE, pues no cuento con más que mi propia experiencia como alumna en lo que respecta a la educación pública obligatoria-: muchas de las cosas que sorprendían a las alumnas de Karlsruhe nosotros ya las teníamos más que vistas. Tal vez se deba a que nuestro máster, con sus más y sus menos, está siendo realmente útil.
+
+En fin, ya sé que cada vez escribo con menos frecuencia, pero es que estoy realmente ocupada. ¡Nos vemos (espero que) pronto!
