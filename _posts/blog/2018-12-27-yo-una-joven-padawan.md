@@ -12,3 +12,8 @@ image:
 ---
 
 En el proceso de adquisición de seg
+
+
+![Primera foto grupal](/images/49762984_2075649652458469_5946944892092547072_o.jpg)
+
+![Segunda foto grupal](/images/49643224_2075655185791249_7095390048639516672_o.jpg)
