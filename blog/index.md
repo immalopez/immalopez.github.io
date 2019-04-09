@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Entradas recientes
+title: Lista de entradas
 excerpt: "An archive of blog posts sorted by date."
 search_omit: true
 ---
