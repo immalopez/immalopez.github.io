@@ -31,4 +31,14 @@ Hicimos otra pausa para la -debo decir NEFASTA- comida y, por fin, José Plácid
 
 ![Taller invidentes](/images/DvAupodWsAANBsF.jpg)
 
+El segundo día del Encuentro fue el que más disfruté, pues era el que ofrecía todos los talleres y experiencias prácticas. En total, dada la distribución de horarios, se podía asistir a tres talleres y a una experiencia práctica.
+
+**Primer taller: _Actividades para la integración de alumnos invidentes en el aula de ELE_, por María José Menéndez**
+
+**Segundo taller: _Las cibercomunidades de aprendizaje (CCA): una elección a considerar_, por Iñaki Murua**
+
+**Tercer taller: _Vivir (y aprender) en un mundo audiovisual_, por Sergio Troitiño**
+
+**Experiencia práctica: _Las claves del laberinto: una propuesta gamificada para reflexionar sobre la creación de materiales adecuados a personas refugiadas_, por Lola García Barrera, Silvia García Lozano y Patricia Gallego Villar**
+
 ![Segunda foto grupal](/images/49643224_2075655185791249_7095390048639516672_o.jpg)
