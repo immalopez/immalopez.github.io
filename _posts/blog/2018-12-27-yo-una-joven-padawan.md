@@ -27,6 +27,8 @@ Tras una breve pausa -no sé si estudiada- para tomar café y saludar al resto d
 
 Hicimos otra pausa para la -debo decir NEFASTA- comida y, por fin, José Plácido Ruiz Campillo nos obsequió a todos con una conferencia increíble: **_Do the math: por qué es atractiva la gramática-ficción de Gramatrix y cómo salir_**, en la que el ponente, a través de una analogía con la <a href="https://es.wikipedia.org/wiki/Matrix" target="_blank">famosa trilogía</a>, hablaba de los **sesgos cognitivos** que determinan qué mecanismos de comunicación y contenidos gramaticales decidimos enseñar a nuestros alumnos, para brindar seguidamente estrategias de cuestionamiento. A continuación estaba programado un clásico de los Encuentros, **El Sofá del ELE**, esto es, un debate entre eminencias del campo; sin embargo, debido al fallecimiento de Albert Costa, que iba a participar en él, este quedó cancelado y se invirtió ese tiempo en rendirle un pequeño homenaje a aquel. Por último, se hizo entrega del _Premio International House a la carrera académica de español_ y se celebraron los 30 años de funcionamiento que cumplía la editorial Difusión.
 
+# Talleres y experiencias prácticas
+
 ![Taller invidentes](/images/DvAupodWsAANBsF.jpg)
 
 ![Segunda foto grupal](/images/49643224_2075655185791249_7095390048639516672_o.jpg)
