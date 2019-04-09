@@ -39,7 +39,7 @@ Este fue, sin duda, el taller que más me gustó. En él, María José Mendénde
 
 **SEGUNDO TALLER: _Las cibercomunidades de aprendizaje (cCA): una ELEcción a considerar_, por Iñaki Murua**
 
-A pesar de que este taller también era muy interesante, siento que me aportó algo menos que el anterior, posiblemente porque estaba más familiarizada con el tema. A veces me da la sensación de que hay un componente, no sé si personal o generacional, que me distancia de la percepción como innovador que suscita el tratamiento didáctico de las TIC, lo que no es óbice para que descubriera algunos ejemplos de cCA nuevos que me serán de utilidad a la hora de continuar formándome y disfrutara de las simpáticas pullas entre Iñaki Murua y Fernando Trujillo.
+A pesar de que este taller también era muy interesante, siento que me aportó algo menos que el anterior, posiblemente porque estaba más familiarizada con el tema por mi colaboración con <a href="http://mid.ub.edu/webpmid/content/didalub" target="_blank">el grupo DIDAL_UB</a>. A veces me da la sensación de que hay un componente, no sé si personal o generacional, que me distancia de la percepción como innovador que suscita el tratamiento didáctico de las TIC, lo que no es óbice para que descubriera algunos ejemplos de <a href="http://revistas.um.es/red/article/view/236801" target="_blank">cCA</a> nuevos que me serán de utilidad a la hora de continuar formándome y disfrutara de las simpáticas pullas entre Iñaki Murua y Fernando Trujillo.
 
 **TERCER TALLER: _Vivir (y aprender) en un mundo audiovisual_, por Sergio Troitiño**
 
