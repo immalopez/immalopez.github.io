@@ -41,7 +41,9 @@ Este fue, sin duda, el taller que más me gustó. En él, María José Mendénde
 
 A pesar de que este taller también era muy interesante, siento que me aportó algo menos que el anterior, posiblemente porque estaba más familiarizada con el tema por mi colaboración con <a href="http://mid.ub.edu/webpmid/content/didalub" target="_blank">el grupo DIDAL_UB</a>. A veces me da la sensación de que hay un componente, no sé si personal o generacional, que me distancia de la percepción de innovación que suscita la teorización sobre el tratamiento didáctico de las TIC, lo que no es óbice para que descubriera algunos ejemplos de <a href="http://revistas.um.es/red/article/view/236801" target="_blank">cCA</a> nuevos que me serán de utilidad a la hora de continuar formándome y disfrutara de las simpáticas pullas entre Iñaki Murua y Fernando Trujillo.
 
-**TERCER TALLER: _Vivir (y aprender) en un mundo audiovisual_, por Sergio Troitiño**
+**TERCER TALLER: _Vivir (y aprender) en un mundo audiovisual: la necesidad de desarrollar una nueva competencia_, por Sergio Troitiño**
+
+Este taller se hacía cargo de la realidad contraria a la del primero: la proliferación de usos lingüísticos con el soporte de imágenes en movimiento y la consiguiente necesidad de desarrollar una **competencia audiovisual** (o _Audio-visual Reception_, como propone la versión actualizada del MCER).
 
 **EXPERIENCIA PRÁCTICA: _Las claves del laberinto: una propuesta gamificada para reflexionar sobre la creación de materiales adecuados a personas refugiadas_, por Lola García Barrera, Silvia García Lozano y Patricia Gallego Villar**
 
