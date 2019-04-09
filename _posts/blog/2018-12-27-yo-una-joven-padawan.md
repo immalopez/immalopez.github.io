@@ -21,7 +21,7 @@ _Stay tuned for this very relevant opinion!_
 
 # Conferencias
 
-El viernes 21 se dedicó principalmente a las conferencias. Dado que estuve ocupada repartiendo las acreditaciones y la documentación necesaria para el Encuentro, así como dando la bienvenida a los asistentes, me perdí el comienzo de la primera, **_El CEFR Companion Volume: breve descripción y posible impacto en docencia y evaluación_**, impartida por Neus Figueras. En ella, la ponente presentaba el proyecto que el <a href="https://es.wikipedia.org/wiki/Consejo_de_Europa" target="_blank">Consejo de Europa</a> ha llevado a cabo para enriquecer el <a href="https://es.wikipedia.org/wiki/Marco_Común_Europeo_de_Referencia_para_las_lenguas" target="_blank">MCER</a> quince años después de su publicación en el 2001.
+El viernes 21 se dedicó principalmente a las conferencias. Dado que estuve ocupada repartiendo acreditaciones y la documentación necesaria para el Encuentro, así como dando la bienvenida a los asistentes, me perdí el comienzo de la primera, **_El CEFR Companion Volume: breve descripción y posible impacto en docencia y evaluación_**, impartida por Neus Figueras. En ella, la ponente discutía el proyecto que el <a href="https://es.wikipedia.org/wiki/Consejo_de_Europa" target="_blank">Consejo de Europa</a> ha presentado para enriquecer el <a href="https://es.wikipedia.org/wiki/Marco_Común_Europeo_de_Referencia_para_las_lenguas" target="_blank">MCER</a>, quince años después de su publicación en el 2001, con nuevos descriptores y escalas.
 
 ![Taller invidentes](/images/DvAupodWsAANBsF.jpg)
 
