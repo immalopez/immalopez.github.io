@@ -43,7 +43,7 @@ A pesar de que este taller también era muy interesante, siento que me aportó a
 
 **TERCER TALLER: _Vivir (y aprender) en un mundo audiovisual: la necesidad de desarrollar una nueva competencia_, por Sergio Troitiño**
 
-Este taller se hacía cargo de la realidad contraria a la del primero: la proliferación de usos lingüísticos con el soporte de imágenes en movimiento y la consiguiente necesidad de desarrollar una **competencia audiovisual** (o _Audio-visual Reception_, como propone la versión actualizada del MCER).
+Este taller se hacía cargo de la realidad contraria a la del primero: la proliferación de usos lingüísticos con el soporte de imágenes en movimiento y la consiguiente necesidad de desarrollar una **competencia audiovisual** (o _Audio-visual Reception_, como propone la versión actualizada del MCER). Como el anterior, me gustó y me dio buenas ideas, pero no me cambió la vida.
 
 **EXPERIENCIA PRÁCTICA: _Las claves del laberinto: una propuesta gamificada para reflexionar sobre la creación de materiales adecuados a personas refugiadas_, por Lola García Barrera, Silvia García Lozano y Patricia Gallego Villar**
 
