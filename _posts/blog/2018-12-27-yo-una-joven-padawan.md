@@ -25,6 +25,8 @@ El viernes 21 se dedicó principalmente a las conferencias. Dado que estuve ocup
 
 Tras una breve pausa -no sé si estudiada- para tomar café y saludar al resto de asistentes, tuvo lugar la segunda conferencia del día, en esta ocasión de la mano de Fernando Trujillo: **_Socialización en el aula de ELE: ocupando el espacio entre Facebook y la cafetería_**, cuyo objetivo era meditar acerca de cómo el docente puede contribuir a la «socialización más rica, profunda y variada» de sus pupilos -y, consiguientemente, al mejor desarrollo de su competencia comunicativa- a través del aprendizaje del español. A esto siguió un _speed dating_ ¡para unas 500 personas!, ideado por una de las coordinadoras pedagógicas del evento, Begoña Montmany (de quien también he tenido el placer de ser alumna), con el fin de dar la posibilidad a los profesores que participaban del Encuentro de poner sus proyectos profesionales en común y darse _feedback_ u oportunidades laborales mutuamente.
 
+Hicimos otra pausa para la -debo decir NEFASTA- comida y José Plácido Ruiz Campillo nos obsequió a todos con una conferencia increíble: **_Do the math: por qué es atractiva la gramática-ficción de Gramatrix y cómo salir_**
+
 ![Taller invidentes](/images/DvAupodWsAANBsF.jpg)
 
 ![Segunda foto grupal](/images/49643224_2075655185791249_7095390048639516672_o.jpg)
