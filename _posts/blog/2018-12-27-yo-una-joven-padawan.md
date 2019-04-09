@@ -47,6 +47,6 @@ Este taller se hacía cargo de la realidad contraria a la del primero: la prolif
 
 **EXPERIENCIA PRÁCTICA: _Las claves del laberinto: una propuesta gamificada para reflexionar sobre la creación de materiales adecuados a personas refugiadas_, por Lola García Barrera, Silvia García Lozano y Patricia Gallego Villar**
 
-Junto con el taller de María José Menéndez, esta experiencia práctica fue para mí lo mejor del Encuentro. La gamificación que ofrecían estas profesoras de <a href="https://www.accem.es" target="_blank">**Accem**</a> consistía en adoptar el rol de extranjero en un país inventado, cuya lengua y cultura nos eran completamente ajenas, y someternos a todos los trámites burocráticos que se exije a las personas migrantes y refugiadas cuando llegan a nuestro país.
+Junto con el taller de María José Menéndez, esta experiencia práctica fue para mí lo mejor del Encuentro. La gamificación que ofrecían estas profesoras de <a href="https://www.accem.es" target="_blank">**Accem**</a> consistía en adoptar el rol de extranjero en un país inventado, cuya lengua y cultura nos eran completamente ajenas, y someternos a todos los trámites burocráticos que se exige a las personas migrantes y refugiadas cuando llegan a nuestro país.
 
 ![Segunda foto grupal](/images/49643224_2075655185791249_7095390048639516672_o.jpg)
