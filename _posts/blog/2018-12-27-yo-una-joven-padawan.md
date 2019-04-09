@@ -39,6 +39,8 @@ Este fue, sin duda, el taller que más me gustó. En él, María José Mendénde
 
 **SEGUNDO TALLER: _Las cibercomunidades de aprendizaje (cCA): una ELEcción a considerar_, por Iñaki Murua**
 
+A pesar de que este taller también era muy interesante, siento que me aportó bastante menos que el anterior, posiblemente porque estaba más familiarizada con el tema.
+
 **TERCER TALLER: _Vivir (y aprender) en un mundo audiovisual_, por Sergio Troitiño**
 
 **EXPERIENCIA PRÁCTICA: _Las claves del laberinto: una propuesta gamificada para reflexionar sobre la creación de materiales adecuados a personas refugiadas_, por Lola García Barrera, Silvia García Lozano y Patricia Gallego Villar**
