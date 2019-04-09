@@ -53,4 +53,4 @@ Junto con el taller de María José Menéndez, esta experiencia práctica fue pa
 
 # En resumen
 
-Estoy muy feliz de que existan eventos como este en el mundo del ELE.
+En el decurso de estas dos jornadas he aprendido un montón de cosas y he podido poner cara a los nombres que tantas veces han ido apareciendo a lo largo de las clases del máster: Francisco Herrera, Pedro Gras, José Plácido Ruiz Campillo... Estoy muy contenta de que la comunidad del ELE sea tan activa y ofrezca eventos como este, en el que profesores de todas las partes del mundo se reúnen para compartir y mejorarse los unos a los otros.
