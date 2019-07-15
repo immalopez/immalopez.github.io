@@ -12,3 +12,5 @@ image:
 ---
 
 Los pasa
+
+![Clase Pompeu](/images/photo_2019-07-15 17.16.34.jpeg)
