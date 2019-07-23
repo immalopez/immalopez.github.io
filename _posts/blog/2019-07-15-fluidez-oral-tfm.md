@@ -20,3 +20,5 @@ Recuerdo que, cuando llegué a la sesión inaugural del <a href=" https://www.ub
 Estos dos años me han dado, junto con esos malditos 7 kg, las herramientas y la autoestima necesarias para seguir labrándome un futuro que me haga feliz. Estoy segura de que las cosas que he aprendido -y más importante aún, que he aprendido a aprender- y que me han transmitido los profesores de este máster no podría haberlas hallado en ningún otro lugar. Pero vamos a darle por ahora una palmadita en la espalda al poeta frustrado que hay en mí y a hablar un poco del proyecto con el que he cerrado todo este proceso de aprendizaje: el Trabajo Final de Máster (TFM).
 
 # Un TFM accidentado
+
+Si recordáis la entrada que dediqué, unos meses atrás, <a href="https://immalopez.github.io/blog/proPIC-Europa/" target="_blank"> al **proyecto Erasmus+ _proPIC Europa_**</a>,
