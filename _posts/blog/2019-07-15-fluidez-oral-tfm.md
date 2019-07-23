@@ -21,4 +21,4 @@ Estos dos años me han dado, junto con esos malditos 7 kg, las herramientas y la
 
 # Un TFM accidentado
 
-Si recordáis <a href="https://immalopez.github.io/blog/proPIC-Europa/" target="_blank">la entrada que dediqué, unos meses atrás, al **proyecto Erasmus+ _proPIC Europa_**</a>,
+Si recordáis <a href="https://immalopez.github.io/blog/proPIC-Europa/" target="_blank">la entrada que dediqué, unos meses atrás, al **proyecto Erasmus+ _proPIC Europa_**</a>, sabréis que mi intención e ilusión originales eran las de diseñar y pilotar una _app_ para enseñar español a un colectivo migrante poco alfabetizado. Sin embargo, aprender ciertas lecciones de vida 
