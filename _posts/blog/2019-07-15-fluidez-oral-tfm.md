@@ -37,6 +37,6 @@ Para ello, transcribí los archivos de audio y medí, con la ayuda de <a href="h
 
 Recuerdo que la última semana antes de la entrega del trabajo escrito fue intensísima y muy dura; apenas dormí una media de dos horas por día y únicamente paraba de trabajar para llorar un rato y liberar tensión. Solo podía pensar en que no quería ni entregar un TFM mediocre y estropear mi media, ni repetir la asignatura: la vanidad es una condena cuando, además de ser una procrastinadora nata, una se encuentra en la tesitura de tener que hacer el trabajo de un año en tres meses. Eso sí, de no haber sido tan vanidosa, nunca habría aprendido tantísimo como lo hice -especialmente estadística-, ni podría hoy respirar tranquila y orgullosa por haber podido salvar la situación a la que me habían abocado algunas malas decisiones.
 
-![Praat](/images/Screen Shot 2019-07-15 at 17.38.34.png)
+![Caja y bigotes](/images/Screen Shot 2019-07-15 at 17.38.34.png)
 
 Llegó, pues, el día de la defensa.
