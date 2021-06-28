@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflection about the feedback received on the filmed class
+title: Final reflections
 modified:
 categories: FIDU
 excerpt: "FIDU programme in Translation and Language Sciences"
