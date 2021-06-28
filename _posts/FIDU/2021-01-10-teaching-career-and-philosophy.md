@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Lenguaje formulaico
+title: My teaching career and philosophy
 modified:
 categories: FIDU
-excerpt: "Adquisición de segundas lenguas"
+excerpt: "FIDU programme in Translation and Language Sciences"
 tags: []
 image:
   feature:
