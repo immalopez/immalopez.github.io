@@ -1,7 +1,7 @@
 ---
 layout: page
-title: e-portfolio
-excerpt: "An archive of blog posts sorted by date."
+title: FIDU programme in Translation and Language Sciences
+excerpt: "Portafolio de aprendizaje de una lingüista."
 search_omit: true
 ---
 
