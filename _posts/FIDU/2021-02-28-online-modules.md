@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Reflection about the content of online modules
+title: Part 2
 modified:
 categories: FIDU
-excerpt: "FIDU programme in Translation and Language Sciences"
+excerpt: "Reflection about the content of online modules"
 tags: []
 image:
   feature:
