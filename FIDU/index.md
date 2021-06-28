@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FIDU programme in Translation and Language Sciences
+title: FIDU programme
 excerpt: "Portafolio de aprendizaje de una lingüista."
 search_omit: true
 ---
