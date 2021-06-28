@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Final reflections
+title: Part 4
 modified:
 categories: FIDU
-excerpt: "FIDU programme in Translation and Language Sciences"
+excerpt: "Final reflections"
 tags: []
 image:
   feature:
