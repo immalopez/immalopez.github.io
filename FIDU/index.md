@@ -1,6 +1,6 @@
 ---
 layout: page
-title: e-Portfolio
+title: e-portfolio
 excerpt: "An archive of blog posts sorted by date."
 search_omit: true
 ---
