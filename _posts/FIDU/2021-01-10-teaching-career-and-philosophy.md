@@ -1,9 +1,9 @@
 ---
 layout: post
-title: My teaching career and philosophy
+title: Part 1
 modified:
 categories: FIDU
-excerpt: "FIDU programme in Translation and Language Sciences"
+excerpt: "My teaching career and philosophy"
 tags: []
 image:
   feature:
