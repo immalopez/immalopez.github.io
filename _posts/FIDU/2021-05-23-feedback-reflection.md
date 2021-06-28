@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Reflection about the feedback received on the filmed class
+title: Part 3
 modified:
 categories: FIDU
-excerpt: "FIDU programme in Translation and Language Sciences"
+excerpt: "Reflection about the feedback received on the filmed class"
 tags: []
 image:
   feature:
