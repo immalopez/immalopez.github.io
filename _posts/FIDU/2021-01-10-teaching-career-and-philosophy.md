@@ -17,4 +17,4 @@ This is the third time that I find myself putting together a learning portfolio.
 
 # My teaching philosophy
 
-Throughout these years, my conceptualisation of the teaching-learning process has remained essentially the same, if only more comprehensive and refined.
+Throughout these years, my conceptualisation of the teaching-learning process has remained essentially the same, if only more comprehensive and refined on account of my experience.
