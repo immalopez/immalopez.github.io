@@ -20,10 +20,9 @@ In this post, I will briefly discuss my teaching career and philosophy, in a sim
 **2017-2018**
 * Trainee Spanish Teacher at International House Barcelona
 * English Teacher at Col·legi Shalom
+* Trainee Spanish Teacher at EF Education First
 
 **2018-2019**
-* English Teacher at Col·legi Shalom
-* Trainee Spanish Teacher at EF Education First
 * _(As a teaching assistant)_ Oral Expression in Spanish Workshop: Advanced and Superior Levels (55035) for Erasmus students enrolled in the 'Languages and Cultures in Contemporary Spain' Pompeu Fabra University's Translation and Interpreting Programme
 
 **2019-2020**
