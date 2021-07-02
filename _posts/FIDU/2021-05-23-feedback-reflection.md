@@ -11,3 +11,7 @@ image:
 # modified: 2016-06-01T14:19:19-04:00
 ---
 
+![Part 1](/images/Screenshot 2021-07-02 at 12.55.58.jpg)
+![Part 2](/images/Screenshot 2021-07-02 at 12.56.10.jpg)
+![Part 3](/images/Screenshot 2021-07-02 at 12.56.22.jpg)
+![Part 4](/images/Screenshot 2021-07-02 at 12.56.29.jpg)
