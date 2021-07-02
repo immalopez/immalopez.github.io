@@ -11,7 +11,10 @@ image:
 # modified: 2016-06-01T14:19:19-04:00
 ---
 
-![Part 1](/images/Screenshot 2021-07-02 at 12.55.58.png){:height="50%" width="50%"}{: .center-image }
-![Part 2](/images/Screenshot 2021-07-02 at 12.56.10.png){:height="50%" width="50%"}{: .center-image }
-![Part 3](/images/Screenshot 2021-07-02 at 12.56.22.png){:height="50%" width="50%"}{: .center-image }
-![Part 4](/images/Screenshot 2021-07-02 at 12.56.29.png){:height="50%" width="50%"}{: .center-image }
+![Part 1](/images/Screenshot 2021-07-02 at 12.55.58.png){:height="50%" width="50%" .center-image }
+
+![Part 2](/images/Screenshot 2021-07-02 at 12.56.10.png){:height="50%" width="50%" .center-image }
+
+![Part 3](/images/Screenshot 2021-07-02 at 12.56.22.png){:height="50%" width="50%"} .center-image }
+
+![Part 4](/images/Screenshot 2021-07-02 at 12.56.29.png){:height="50%" width="50%"} .center-image }
