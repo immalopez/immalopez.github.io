@@ -23,23 +23,23 @@ In this post, I will briefly discuss my teaching career and philosophy, in a sim
 * A1 and B1 Level Trainee Spanish Teacher at EF Education First
 
 **2018-2019**
-* Teaching Assistant—Oral Expression in Spanish Workshop: Advanced and Superior Levels (55035) for Erasmus students enrolled in the 'Languages and Cultures in Contemporary Spain' Pompeu Fabra University's Translation and Interpreting Programme
+* Teaching Assistant — Oral Expression in Spanish Workshop: Advanced and Superior Levels (55035) for Erasmus students enrolled in the 'Languages and Cultures in Contemporary Spain' Pompeu Fabra University's Translation and Interpreting Programme
 
 **2019-2020**
 * Freelance English Teacher for courses subsidised by the Public Occupation Services of Catalonia (SOC)
 * Freelance Spanish Teacher at Baxter Business Services
-* Associate Teacher—Spanish Language (25285) for first year Translation and Interpreting students at Pompeu Fabra University
-* Associate Teacher—Oral Expression in Spanish Workshop: Advanced and Superior Levels (55035) for Erasmus students enrolled in the 'Languages and Cultures in Contemporary Spain' Pompeu Fabra University's Translation and Interpreting Programme
-* Associate Teacher—Oral Expression in Spanish Workshop: Intermediate Level (55032) for Erasmus students enrolled in the 'Languages and Cultures in Contemporary Spain' Pompeu Fabra University's Translation and Interpreting Programme
-* Associate Teacher—Spanish Language Seminar: Introduction to Teaching Spanish as a Foreign Language (20194) for third and fourth year Translation and Interpreting students at Pompeu Fabra University
+* Associate Teacher — Spanish Language (25285) for first year Translation and Interpreting students at Pompeu Fabra University
+* Associate Teacher — Oral Expression in Spanish Workshop: Advanced and Superior Levels (55035) for Erasmus students enrolled in the 'Languages and Cultures in Contemporary Spain' Pompeu Fabra University's Translation and Interpreting Programme
+* Associate Teacher — Oral Expression in Spanish Workshop: Intermediate Level (55032) for Erasmus students enrolled in the 'Languages and Cultures in Contemporary Spain' Pompeu Fabra University's Translation and Interpreting Programme
+* Associate Teacher — Spanish Language Seminar: Introduction to Teaching Spanish as a Foreign Language (20194) for third and fourth year Translation and Interpreting students at Pompeu Fabra University
 
 **2020-2021**
-* Predoctoral Researcher—Spanish Language (25285) for first year Translation and Interpreting students at Pompeu Fabra University
-* Predoctoral Researcher—Empirical Methods in Language Studies (21516) for third year Applied Linguistics students at Pompeu Fabra University
+* Predoctoral Researcher — Spanish Language (25285) for first year Translation and Interpreting students at Pompeu Fabra University
+* Predoctoral Researcher — Empirical Methods in Language Studies (21516) for third year Applied Linguistics students at Pompeu Fabra University
 
 **2021-2022** _(to be done)_
-* Predoctoral Researcher—Introduction to University and ICT Resources (25284) for first year Translation and Interpreting students at Pompeu Fabra University
-* Predoctoral Researcher—Spanish Language: Superior Level 2 (55011) for Erasmus students enrolled in the 'Languages and Cultures in Contemporary Spain' Pompeu Fabra University's Translation and Interpreting Programme
+* Predoctoral Researcher — Introduction to University and ICT Resources (25284) for first year Translation and Interpreting students at Pompeu Fabra University
+* Predoctoral Researcher — Spanish Language: Superior Level 2 (55011) for Erasmus students enrolled in the 'Languages and Cultures in Contemporary Spain' Pompeu Fabra University's Translation and Interpreting Programme
 
 # My teaching philosophy
 
