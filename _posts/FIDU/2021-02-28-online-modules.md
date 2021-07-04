@@ -3,7 +3,7 @@ layout: post
 title: What I talk about when I talk about teaching
 modified:
 categories: FIDU
-excerpt: "Reflection about the content of online modules"
+excerpt: "Reflection on the content of the course's online modules"
 tags: []
 image:
   feature:
