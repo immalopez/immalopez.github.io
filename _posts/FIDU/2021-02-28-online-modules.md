@@ -11,3 +11,6 @@ image:
 # modified: 2016-06-01T14:19:19-04:00
 ---
 
+Hello again! In this post I am going to summarise and reflect on the theoretical contents of the course’s five online modules that seemed most relevant to me with regard to my professional development.
+
+Given that the context of Pompeu Fabra University is not new to me, as I have been both a student and a teacher in it, the institutional module is perhaps the one that had the least to offer me. Most of the matters it addressed had to do with procedures, bodies, organisations and useful services for optimal studying and teaching within the university, such as Idiomes UPF, that is, the university’s language school; the Center for Learning Innovation and Knowledge (CLIK) itself, which is precisely the one that gives us the opportunity to take the FIDU course; or La Factoria +, which offers both bibliographic and technological support (in fact, they helped me solve some doubts I had regarding intellectual property laws when it comes to data mining not long ago).
