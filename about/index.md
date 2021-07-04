@@ -9,7 +9,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Este portafolio nace de un proyecto para el <a href=" https://www.ub.edu/portal/web/educacion/masteres-universitarios/-/ensenyament/detallEnsenyament/1060507" target="_blank">Máster de Formación de Profesores de Español como Lengua Extranjera</a> coordinado por la Universidad de Barcelona y la Universidad Pompeu Fabra. Con él, se pretende llevar a cabo, mediante la recopilación de muestras de diversa índole (textos, imágenes, vídeos, trabajos, actividades, comentarios) en formato blog, un seguimiento de la evolución de la autora como lingüista y docente en el decurso de sus estudios. Nuestra finalidad es reflexionar, de un modo interactivo, acerca del propio proceso de aprendizaje y del mundo de la lingüística y la enseñanza de LE en general.
+Este portafolio surge de un proyecto para el <a href=" https://www.ub.edu/portal/web/educacion/masteres-universitarios/-/ensenyament/detallEnsenyament/1060507" target="_blank">Máster de Formación de Profesores de Español como Lengua Extranjera</a> coordinado por la Universidad de Barcelona y la Universidad Pompeu Fabra. Con él, se pretende llevar a cabo, mediante la recopilación de muestras de diversa índole (textos, imágenes, vídeos, trabajos, actividades, comentarios) en formato blog, un seguimiento de la evolución de la autora como lingüista y docente en el decurso de sus estudios. Nuestra finalidad es reflexionar, de un modo interactivo, acerca del propio proceso de aprendizaje y del mundo de la lingüística y la enseñanza de LE en general.
 
 # Sobre la autora
 
