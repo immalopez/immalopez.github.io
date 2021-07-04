@@ -17,6 +17,8 @@ With a considerably transparent name, the FIDU programme aims to provide basic t
 
 # My teaching career
 
+Like that of every other nerd, my teaching career dates back to getting paid under the table as a teenager for well-intentioned but low-quality private lessons to classmates with difficulties. Officially, though, it started in 2017, when I took my first (baby) steps as a foreign language instructor in the private sector. Then, in December 2018, while doing my master’s degree, I was given the opportunity to teach a course at the university level. This was a truly remarkable experience, to the point that it helped me a great deal in choosing the academic path. From then on, I kept working as a freelancer and an associate teacher at Pompeu Fabra University until I was awarded a predoctoral researcher contract to complete my Ph. D. studies. The exact details of said progression can be found in the mini-CV below: 
+
 **2017-2018**
 * _(All levels)_ Trainee Spanish Teacher at International House Barcelona
 * B2 Level English Teacher at Col·legi Shalom
