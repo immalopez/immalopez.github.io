@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Part 2
+title: What I talk about when I talk about teaching
 modified:
 categories: FIDU
 excerpt: "Reflection about the content of online modules"
