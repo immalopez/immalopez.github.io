@@ -3,7 +3,7 @@ layout: post
 title: Part 3
 modified:
 categories: FIDU
-excerpt: "Reflection about the feedback received on the filmed class"
+excerpt: "Reflection on the feedback received on the recorded lesson"
 tags: []
 image:
   feature:
