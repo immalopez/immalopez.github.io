@@ -21,3 +21,6 @@ Given that the context of Pompeu Fabra University is not new to me, as I have be
 I think, nonetheless, that said module constitutes a much needed overview for newcomers, and I really enjoyed learning about the <a href="https://www.upf.edu/web/edvolucio" target="_blank">**EDvolució project**</a> and the <a href="https://www.upf.edu/web/clik/ajuts-placlik" target="_blank">**PlaCLIK initiative**</a>. I am even considering sending a proposal with my colleague Nico! It is undeniably positive to make this type of didactic tools, resources and incentives available to teachers, so that they maintain enthusiasm and creativity in the classroom. Especially when the pandemic started and we had to switch to online teaching, I believe the CLIK made a big effort to accompany lecturers not so well acquainted with technology (both in terms of hardware and software) and its associated instruction methods during the transition. This module also encouraged me to try out _Aula Global_'s (Moodle) **workshop component** for the first time in a **coevaluation** activity that went really well, so thank you!
 
 **2. Learning and teaching in higher education**
+**3. Teaching methods in seminars, workshops, and master classes**
+**4. Evaluating what we teach: assessment methods and tools**
+**5. Course plan design**
