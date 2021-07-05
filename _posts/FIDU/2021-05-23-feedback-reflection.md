@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seing myself through someone else's eyes
+title: Seeing myself through someone else's eyes
 modified:
 categories: FIDU
 excerpt: "Reflection on the feedback received on the recorded lesson"
