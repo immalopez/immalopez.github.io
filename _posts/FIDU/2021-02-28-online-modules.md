@@ -11,7 +11,7 @@ image:
 # modified: 2016-06-01T14:19:19-04:00
 ---
 
-Hello again! Today I am going to summarise and reflect on the theoretical contents of FIDU’s five online modules that seemed most relevant with respect to my professional development. While I will admit that my involvement with this aspect of the course could have been greater (I find it very hard to learn just by reading, so, albeit I was grateful for the short videos, mind maps, and questionnaires, following the modules felt more like a chore than anything else), it is my opinion that I acquired a non-negligible amount of knowledge, and I will try to prove it below.
+Hello again! Today I am going to summarise and reflect on the theoretical contents of FIDU’s five online modules that seemed most relevant with respect to my professional development. While I will admit that my involvement with this aspect of the course could have been greater (I find it very hard to learn just by reading, so, albeit I was grateful for the short videos, mind maps, and questionnaires, following the modules felt more like a chore than anything else), it is my opinion that I acquired a non-negligible amount of knowledge, which I will try to prove below.
 
 
 **1. Institutional Module**
