@@ -39,4 +39,7 @@ I believe, however, that no method can stand on its own and usually a lesson com
 Likewise, the **interrogative method** is paramount to guide students, involve them in the content of the lesson and activate their understanding, whereas the meaningful **discovery-based approach** is needed for the practical facet of a class. Balancing out the student’s cognitive workload as well as the classroom procedures put into practice is also required to offer variation and increase overall motivation. By way of illustration, devising a project from scratch, even when provided with guidelines, can be gruelling and time-consuming both for the teacher (who has to show the way and correct) and the pupil, to the point where sometimes the learning advantages of these tasks can be eroded by extenuation.
 
 **4. Evaluating what we teach: assessment methods and tools**
+
+While <a href="https://immalopez.github.io/blog/evaluacion-antes-y-despues/" target="_blank">I previously discussed the topic of assessment in great detail</a>,
+
 **5. Course plan design**
