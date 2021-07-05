@@ -13,7 +13,7 @@ image:
 
 Hello again!
 
-Today I am going to summarise and reflect on the FIDU’s five-module theoretical contents that seemed most relevant with respect to my professional development and teaching practices. While I will admit that my involvement with this aspect of the course could have been greater, at least in terms of motivation (I find it very hard to learn just by reading online, so, albeit I was grateful for the short videos, mind maps, and questionnaires, following such lectures felt more like a chore than anything else), it is my opinion that I acquired a non-negligible amount of knowledge that will aid me in improving or at least innovating in my classes, which I will try to prove below.
+Today I am going to summarise and reflect on the FIDU’s five-module theoretical contents that seemed most relevant with respect to my professional development and teaching practices. While I will admit that my involvement with this aspect of the course could have been greater, at least in terms of motivation (I find it very hard to learn just by reading online, so, albeit I was grateful for the short videos, mind maps, and questionnaires, following such lectures felt more like a chore than anything else), it is my opinion that I acquired a non-negligible amount of knowledge that will aid me in improving — or at least innovating in — my classes, which I will try to prove below.
 
 
 **1. Institutional Module**
