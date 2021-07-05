@@ -52,4 +52,6 @@ The aspects about this module that caught my attention the most were the the **A
 
 # In conclusion
 
+Even though I would much prefer face-to-face lessons, I believe that every online module had some valuable takeaways to either enhance my role as a university lecturer/my digital competence or simply learn more about UPF’s initiatives and services. I am very happy that beginners like me are given a hand to get started in a new, sometimes intimidating environment.
 
+That is everything I had to say. Bye for now!
