@@ -26,6 +26,8 @@ I think, nonetheless, that said module constitutes a much needed overview for ne
 
 While I was equipped with a solid didactic training thanks to my master’s degree and was thus already familiar with some of the concepts and theoretical frameworks laid out in this module, such as **the student-focused approach to teaching** or **Bloom’s taxonomy**, my intellectual baggage did not revolve around higher education specifically. Therefore, I found this part of the course quite insightful, particularly as regards the distinction between **competencies** and **learning outcomes**, which, in spite of being notions present in almost every teaching plan, I had never seen formalised before.
 
+![Learn by doing](/images/office-people-work-together-setting-up-huge-light-bulb-separated-puzzle-pieces-businesspeople-coworking-place-teamwork-searching-new-idea-business-project_93633-238.jpg)
+
 I do not recall being previously exposed to Marton’s **surface and deep approach** terminology either, although the dichotomy it represents had been brought to my attention multiple times. In the same vein, I absolutely loved <a href="https://www.youtube.com/watch?v=WwslBPj8GgI" target="_blank">Eric Mazur’s video</a> — he is a great communicator who really manages to put into words a (not necessarily novice) teacher’s perplexity when things understandably do not go according to plan and/or their objective does not come across students as expected, while also providing practical advice to fix the problem.
 
 However, the concept that I thought was the most useful is Bigg’s **constructive alignment**, because it helps systematise transversal coherence across the different dimensions of the teaching-learning process, something that I have been doing intuitively through <a href="https://immalopez.github.io/fidu/teaching-career-and-philosophy/" target="_blank">the questions outlined in my previous post</a>. On this subject, I intend to fully read Biggs and Tang’s _Teaching for Quality Learning at University_ this summer (of course, there were many other interesting references listed in the literature review document, but I have to be realistic with the time I have left to spare for this matter).
@@ -36,9 +38,9 @@ Since I was originally a foreign language teacher — a domain wherein current t
 
 I believe, however, that no method can stand on its own and usually a lesson combines some or all of them to a certain extent. For instance, whilst the expositive method is useful to convey factual knowledge, the **demonstrative** one is essential to contextualise and give examples that help clarify what has been said or needs to be done, and I do not completely agree with the assumption that it is based on "the idea that what the teacher does is perfect and the only way to act", as long as the instructor does not explicitly say so.
 
-![Row](/images/reaching-pinnacle-teaching-learning.jpg)
-
 Likewise, the **interrogative method** is paramount to guide students, involve them in the content of the lesson and activate their understanding, whereas the meaningful **discovery-based approach** is needed for the practical facet of a class. Balancing out the student’s cognitive workload as well as the classroom procedures put into practice is also required to offer variation and increase overall motivation. By way of illustration, devising a project from scratch, even when provided with guidelines, can be gruelling and time-consuming both for the teacher (who has to show the way and correct) and the pupil, to the point where sometimes the learning advantages of these tasks can be eroded by extenuation.
+
+![Row](/images/reaching-pinnacle-teaching-learning.jpg)
 
 **4. Evaluating what we teach: assessment methods and tools**
 
