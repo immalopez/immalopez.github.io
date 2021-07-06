@@ -21,7 +21,7 @@ In the following, I attach and comment on the tutor’s viewing report:
 
 ![Part 1](/images/Screenshot 2021-07-02 at 12.55.58.png)
 
-I am quite happy with the evaluation grid, as there is no facet that has been rated negatively. There are, however, some actions that could not be assessed at all due to the recording’s time limit, namely, whether the class and overall course were planned taking into account different learning styles; whether the usefulness of the theoretical and practical contents of the lesson were explicitly connected to industry activities; whether formative assessment was being carried out; and whether I employed anecdotes or any other narrative elements that helped retain the students’ attention.
+I am quite happy with the evaluation grid, as there is no facet that has been rated negatively. There are, however, some actions that could not be assessed at all due to the recording’s time limit, namely, whether the class and overall course were planned taking into account different learning styles; whether the usefulness of the theoretical and practical contents of the lesson were explicitly connected to industry activities; whether formative assessment was being carried out; and, lastly, whether I employed anecdotes or any other narrative elements that helped retain the pupils’ attention. I can say that the first three things I usually do, whereas as an introverted person I find it very difficult to share personal information with the students, even if I do add a great deal of jokes and curious data to my speech to make it more engaging.
 
 ![Part 2](/images/Screenshot 2021-07-02 at 12.56.10.png)
 
