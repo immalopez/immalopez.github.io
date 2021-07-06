@@ -37,6 +37,5 @@ As for class group aspects, the tutor points out that I could **give students mo
 
 Once again — and to conclude with this performance review — I am frankly surprised at how positive this feedback was, especially in terms of how interactive the class was perceived to be. This is a huge achievement for me, since <a href="https://immalopez.github.io/blog/cierre-practicas/" target="_blank">classroom dynamics used to be a recurrent problem in my teaching practice in the past</a>; and this being an online lesson on top of it all really boosts my confidence! On a second watch, however, I reckon that something I could improve is **my fluency when I speak**. While (fortunately) it is not nerve-wracking, I notice that more often than not I need to pause to find the appropriate word, and I would like for it to come more naturally. Maybe I could write a script beforehand of the exact things I want to say and rehearse it a bit prior to the lesson. In any case, I believe this was the most useful activity in the FIDU course and I am eternally grateful for having this service free of charge :-)
 
-Best,
-
+Best,<br />
 Imma
