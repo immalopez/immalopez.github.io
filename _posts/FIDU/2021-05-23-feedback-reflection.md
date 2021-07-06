@@ -33,4 +33,4 @@ Moving on to presentation tools, the tutor does not seem to have realised that I
 
 ![Part 4](/images/Screenshot 2021-07-02 at 12.56.29.png)
 
-As for class group aspects, the tutor points out that I could **give students more validation when they get the correct answer**, which I think is solid advice. To be fair, I am a pretty laconic person and quite often it does not occur to me to speak if I have no new information to add — still, recognition is a great tool to foster the pupils’ self-esteem and thus a nice learning environment. Consequently, I have started to be more verbal about my approval.
+As for class group aspects, the tutor points out that I could **give students more validation when they get the correct answer**, which I think is solid advice. To be fair, I am a pretty laconic person and quite often it does not occur to me to speak if I have no new information to add — still, recognition is a great tool to foster the pupils’ self-esteem and thus to foster a nice learning environment. As a consequence, I have started to be more verbal about my approval in class.
