@@ -17,6 +17,8 @@ In order to provide the reader with some context, the lesson I chose to record w
 
 # The viewing report
 
+In the following, I attach and comment on the tutor’s viewing report: 
+
 ![Part 1](/images/Screenshot 2021-07-02 at 12.55.58.png)
 
 ![Part 2](/images/Screenshot 2021-07-02 at 12.56.10.png)
