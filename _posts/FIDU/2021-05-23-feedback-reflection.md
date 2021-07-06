@@ -34,3 +34,5 @@ Moving on to presentation tools, the tutor does not seem to have realised that I
 ![Part 4](/images/Screenshot 2021-07-02 at 12.56.29.png)
 
 As for class group aspects, the tutor points out that I could **give students more validation when they get the correct answer**, which I think is solid advice. To be fair, I am a pretty laconic person and quite often it does not occur to me to speak if I have no new information to add — still, recognition is a great tool to foster the pupils’ self-esteem and thus to foster a nice learning environment. As a consequence, I have started to be more verbal about my approval in class.
+
+I am actually very surprised at how positive this feedback was, especially in terms of how interactive the class was perceived to be. This is a huge achievement for me, as <a href="https://immalopez.github.io/blog/cierre-practicas/" target="_blank">classroom dynamics were a problem for me in the past</a>, and this being an online lesson really boosts my confidence.
