@@ -11,7 +11,7 @@ image:
 # modified: 2016-06-01T14:19:19-04:00
 ---
 
-As I mentioned in <a href="https://immalopez.github.io/fidu/teaching-career-and-philosophy/" target="_blank">the first document of this learning portfolio</a>, one of the evaluable activities of the FIDU course consists in recording a class of ours so as to receive feedback from an expert on aspects of our teaching that could be improved and others that we should keep reinforcing.
+As I mentioned in <a href="https://immalopez.github.io/fidu/teaching-career-and-philosophy/" target="_blank">the first document of this learning portfolio</a>, one of the evaluable activities of the FIDU course consists in recording a class of ours so as to receive feedback from an expert — in this case, Judit Viñas, an educational psychology researcher — on aspects of our teaching that could be improved, as well as others that we should keep reinforcing.
 
 
 ![Part 1](/images/Screenshot 2021-07-02 at 12.55.58.png)
