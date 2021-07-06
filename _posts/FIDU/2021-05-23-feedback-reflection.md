@@ -27,6 +27,8 @@ I am quite happy with the evaluation grid, as it shows that no facet has been ra
 
 Regarding the skills displayed and the teaching methods used, the tutor only comments on strengths. In the end, nevertheless, she maintains that no activity has been formulated in which the students have to build or create something, which is simply not true: the main objective of the assignment is precisely to detect neological uses of words and write the definitions of such uses with a lexicographic style, so that they can be included in the dictionary.
 
+Moving on to presentation tools, the tutor does not seem to have realised that I have not recorded the session directly from Collaborate, as she tells me that I should share the didactic materials in full screen. In reality, this is exactly what I did, but I recorded my entire screen —  which is not what the students were seeing on their own screens — so that (i) breakout rooms would be filmed as well and (ii) she could fully see how I manage with the ICT tools I employ.
+
 ![Part 3](/images/Screenshot 2021-07-02 at 12.56.22.png)
 
 ![Part 4](/images/Screenshot 2021-07-02 at 12.56.29.png)
