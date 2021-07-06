@@ -21,6 +21,8 @@ In the following, I attach and comment on the tutor’s viewing report:
 
 ![Part 1](/images/Screenshot 2021-07-02 at 12.55.58.png)
 
+I am quite happy with the evaluation grid. 
+
 ![Part 2](/images/Screenshot 2021-07-02 at 12.56.10.png)
 
 ![Part 3](/images/Screenshot 2021-07-02 at 12.56.22.png)
