@@ -15,6 +15,8 @@ As I mentioned in <a href="https://immalopez.github.io/fidu/teaching-career-and-
 
 In order to provide the reader with some context, the lesson I chose to record was from the Spanish Language (25285) subject for first year Translation and Interpreting students. In that particular instance, the goal was to introduce and get the pupils to start working on an assignment on semantic neology that they had to perform with a partner. More precisely, they were expected to adopt the role of a lexicographer and trace in the <a href="https://www.rae.es/banco-de-datos/corpes-xxi" target="_blank">**CORPES XXI**</a>, a corpus of current Spanish, neological uses of a series of proposed words. Before that, we also did a punctuation exercise.
 
+# The viewing report
+
 ![Part 1](/images/Screenshot 2021-07-02 at 12.55.58.png)
 
 ![Part 2](/images/Screenshot 2021-07-02 at 12.56.10.png)
