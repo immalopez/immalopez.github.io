@@ -27,14 +27,14 @@ Like that of every other nerd, my teaching career dates back to getting paid und
 * A1 and B1 Level Trainee Spanish Teacher at EF Education First
 
 **2018-2019**
-* Teaching Assistant — Oral Expression in Spanish Workshop: Advanced and Superior Levels (55035) for Erasmus students enrolled in the 'Languages and Cultures in Contemporary Spain' Pompeu Fabra University's Translation and Interpreting Programme
+* Teaching Assistant — Oral Expression in Spanish Workshop: Advanced and Superior Levels (55035) for Erasmus students enrolled in Pompeu Fabra University's Translation and Interpreting Programme 'Languages and Cultures in Contemporary Spain'
 
 **2019-2020**
 * Freelance English Teacher for courses subsidised by the Public Occupation Services of Catalonia (SOC)
 * Freelance Spanish Teacher at Baxter Business Services
 * Associate Teacher — Spanish Language (25285) for first year Translation and Interpreting students at Pompeu Fabra University
-* Associate Teacher — Oral Expression in Spanish Workshop: Advanced and Superior Levels (55035) for Erasmus students enrolled in the 'Languages and Cultures in Contemporary Spain' Pompeu Fabra University's Translation and Interpreting Programme
-* Associate Teacher — Oral Expression in Spanish Workshop: Intermediate Level (55032) for Erasmus students enrolled in the 'Languages and Cultures in Contemporary Spain' Pompeu Fabra University's Translation and Interpreting Programme
+* Associate Teacher — Oral Expression in Spanish Workshop: Advanced and Superior Levels (55035) for Erasmus students enrolled in Pompeu Fabra University's Translation and Interpreting Programme 'Languages and Cultures in Contemporary Spain'
+* Associate Teacher — Oral Expression in Spanish Workshop: Intermediate Level (55032) for Erasmus students enrolled in Pompeu Fabra University's Translation and Interpreting Programme 'Languages and Cultures in Contemporary Spain'
 * Associate Teacher — Spanish Language Seminar: Introduction to Teaching Spanish as a Foreign Language (20194) for third and fourth year Translation and Interpreting students at Pompeu Fabra University
 
 **2020-2021**
@@ -43,7 +43,7 @@ Like that of every other nerd, my teaching career dates back to getting paid und
 
 **2021-2022** _(to be done)_
 * Predoctoral Researcher — Introduction to University and ICT Resources (25284) for first year Translation and Interpreting students at Pompeu Fabra University
-* Predoctoral Researcher — Spanish Language: Superior Level 2 (55011) for Erasmus students enrolled in the 'Languages and Cultures in Contemporary Spain' Pompeu Fabra University's Translation and Interpreting Programme
+* Predoctoral Researcher — Spanish Language: Superior Level 2 (55011) for Erasmus students enrolled in Pompeu Fabra University's Translation and Interpreting Programme 'Languages and Cultures in Contemporary Spain'
 
 Having taught five different bachelor's degree courses — some of them twice already — I would say I have some experience with both online and in-person university education and can, as a consequence, identify key aspects in my teaching practice that need to be improved. Judging from student evaluations and my own perceptions as a lecturer, the things I struggle with the most are **giving feedback quickly** and **making highly theoretical lessons more digestible**. Hence, my objectives for this academic year are palliating these issues by trying to **optimise my grading time** (i.e., offer less elaborate corrections and/or only on the most relevant mistakes) and introducing new instruction methods, such as **problem-based learning**. As for my strengths, I would highlight my creativity, my adaptability, my capacity for (constructive) self-criticism, my self-determination, and my genuine concern for the students, all of which I hope will remain intact over time.
 
